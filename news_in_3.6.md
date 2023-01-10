@@ -1,4 +1,4 @@
-# News in 3.6
+# News in Unit 3.6
 
 Insolvency: Refers to the situation where a person or a business is unable to meet thei bill and other debt oblications. The debts (liabilities) of the individual or organization exceed their assets.
 
