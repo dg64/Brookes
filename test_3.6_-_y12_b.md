@@ -79,3 +79,57 @@ Question 4	4/6
 Questionn 4	6/6
 
 Total 16/18	Grade 6
+
+Chau
+
+Question 1	2/2
+
+Question 2	2/2
+
+Question 3	0/2
+		Creditor days are miscalculated
+
+Question 4	3/6
+		Reducing the stock is not a solution. A better planning for demand is.
+		for the other options you need to mention also the drawbacks. Always.
+
+Question 5	4/6
+		I was expecting some words about the way if improving. You also did not thik to calculate
+		the gearing ratio to see the profitability of the business. 
+
+Total 11/18	Grade 4
+
+Andzhej
+
+Question 1	2/2
+
+Question 2	2/2
+
+Question 3	2/2
+
+Question 4	3/6
+		When you propose a solution you must always present its drawbacks. Remember that your answers
+		should always be balanced
+
+Question 5	3/6
+		Not enough; your analysis should be deeper; you did not mention the exposition of the company;
+		you did not mention the reduction of the working capital cycle.
+
+TotaL 12/16	Grade 5
+
+Parisa
+
+Question 1	2/2
+
+Question 2	2/2
+
+Question 3	2/2
+
+Question 4	6/6
+
+Question 5	4/6
+		You made a mistake in the analysis of the creditor days. The business now is paying slower its
+		supplier.
+
+Total 16/18	Grade 6
+
