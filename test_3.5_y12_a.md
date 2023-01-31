@@ -199,3 +199,31 @@ Question 7	2/4
 Question 8 	2/4
 
 Total		5/30 Grade 1
+
+Haifa
+
+Question 1	1/2
+		The expenses are miscalculated
+
+Question 2	4/4
+		How did you manage to have the exact NPM???
+
+
+Question 3	0/4
+		Insufficient. You need to find a possible reason for the change in KPI
+
+Question 4	0/4
+		You were expected to answer: the ROCE
+
+Question 5	4/4
+
+Question 6	0/6
+		No answer
+
+Question 7	4/4
+
+Question 8	0/4
+		Wrong analysis
+
+Total 13/32	Grade 3
+
