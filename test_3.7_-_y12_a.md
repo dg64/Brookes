@@ -55,7 +55,7 @@ Question 3	5/5
 
 Question 4	6/6
 
-Total 16/18	Grade 7
+Total 17/18	Grade 7
 
 Matvey
 
