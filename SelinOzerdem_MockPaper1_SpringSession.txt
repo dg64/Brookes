@@ -1,0 +1,61 @@
+Section A
+
+Question 1
+
+		a	2/4
+			a PLC is exposed to the risk of take over
+
+		b	0/6
+			No answer
+
+Question 2
+
+		a	2/4
+			You must reference the test case; in this case SVT is using a secndary market research
+			concerning the Sudan
+
+		b	3/6
+			Theoretical answer. You need to apply this concept to the test case. In this case Ariadne
+			(Autocratic) and Yannick (Situational)
+
+Total Section A 7/20
+
+Section B
+
+Question 4
+
+		a	0/2
+			easy to calculate
+			does not take into account the market and the competition
+
+		b	0/4
+			There is no such thing as damage control in TQM
+
+		c	1/4	
+			You need to reference the stimulus material. In this case the variance analysis allows
+			SVT to see that sales are lower than forecasted and costs are higher that forecasted.
+			The variance analysis allows SVT to monitor these deviations and take actions
+
+		d	2/10
+			You are required to make an analysis with benefits and drawbacks, referencing the
+			stimulus material. Two for each option given. Just repeating what is in the text is not
+			an analysis. There is also no conclusion in your answer.
+
+Total Section B 3/20
+
+Section C
+
+	Criterion A 1
+	Criterion B 1
+	Criterion C 1
+	Criterion D 3
+	Criterion E 0
+
+	Here you completely discarded the stimulus material involving ARR and NPV. The text instructed also to calculate
+	the payback period to make the analysis. There is not trace of that in your text, which makes me assume that
+	the topic of Investment Appraisal is unknown to you. You were also required to write a paragraph related to
+	two groups of stakeholders.
+
+Total Section C 6/20
+
+Total Score  16/60 Grade 2
