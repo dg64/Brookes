@@ -1,0 +1,61 @@
+Section A
+
+Question 1
+
+		a	2/4
+			Your answer is theoretical. 
+
+		b	0/6
+			possible economies of scale are:
+			economics: buying in bulk quantities
+			financial: access to better credit conditions
+			technological: access to state of the art machinery
+			Economy of scale does not depend solely from the output generated.
+
+Question 3
+
+		a	0/4
+			SVT is organized by product, which means that each division is focused on the
+			profitability of a specific line of products; for each division there is hierarchical
+			structure dedicated, with a general director that can ensure that enogh resources are
+			allocated to that division. As a drawback, this type of organization fosters conflicts
+			and competitions between divisions and general directors
+
+		b	5/6
+			I award 5 points for this answer, but notice that you are meant to provide examples from
+			the test case, that shows both internal and external growth
+
+Total Section A 7/20
+
+Section B
+
+Question 4
+
+		a	2/2
+
+		b	2/4
+			TQM has nothing to do with technology
+
+		c	1/4
+			You need to reference the stimulus material. In this case the variance analysis allows
+			SVT to see that sales are lower than forecasted and costs are higher that forecasted.
+			The variance analysis allows SVT to monitor these deviations and take actions
+
+		d	6/10
+			You are required to give two advantages and two disdvantages for each option. 
+			You gave only one.
+
+Section C
+
+	Criterion A 0
+	Criterion B 0
+	Criterion C 1
+	Criterion D 1
+	Criterion E 0
+
+	Just a paragraph for a question worth 20 points is unacceptable. This kind of questions requires
+	a structured answer; the structure of this answer was explained countless time.
+
+Total Section C 2/20
+
+Total Score 20/60 Grade 3
