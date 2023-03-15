@@ -193,3 +193,87 @@ Total Section C 6/20
 
 Total Score 28/60 Grade 4
 
+Sofya Stenina
+
+Section A
+
+Question 2
+
+		a	2/4
+			Here you were epected to reference the fact that SVT used secondary market research for Sudan
+
+		b	6/6
+
+Question 3
+
+		a	4/4
+
+		b	6/6
+
+Total Section A 20/20
+
+Section B
+
+Question 4
+
+		a	1/2
+			A not-for-profit organization needs profis, but the profits are not redistributed among the
+			shareholders, they are all reinvested into the business
+
+		b	
+
+			i	2/2
+
+			ii	3/6
+				You forgot to reference the company
+
+		c	10/10
+			Well balanced answer.
+
+Total Section B 16/20
+
+Total Score 36/40 Grade 7
+
+Ariela
+
+Section A
+
+Question 2
+
+		a	3/6
+			Here you were expected to mention that SVT used secondary research for Sudan
+
+		b	6/6
+
+Question 3
+
+		a	0/4
+			no answer
+
+		b	0/6
+			no answer
+
+Total Section A 9/20
+
+Section B
+
+Question 4
+
+		a	2/2
+
+		b	
+
+			i	0/2
+				The correct result is 75.000 units
+				$30.000/ ($2.5 - $2.1)
+				You were required to make the calculation, not to draw the chart
+
+			ii	6/6
+
+		c	10/10
+
+Total Section B	18/20
+
+Total Score 27/40 Grade 6
+
+			
