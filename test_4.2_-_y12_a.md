@@ -167,5 +167,38 @@ Total Score 12/16 Grade 6
 
 Daniel
 
+Question 1	2/2
 
+Question 2	4/4
 
+Question 3	6/10
+		Your answer is unbalanced. What about the drawback of an USP?
+		Expensive. A breakthrough in innovation can make your USP obsolete
+
+Total Score 12/16 Grade 5
+
+Matvey
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	10/10
+
+Total Score 16/16 Grade 7
+
+Jean
+
+Question 1	2/2
+
+Question 2	2/4
+		Money is not a business management term. The benchmarking of JD
+		can be used by a car manufacturer as a confirmation of its
+		USP
+
+Question 3	2/10
+		Your answer is insufficient. You need to provide a mini essay
+		with an introducion, a body with a balanced analysis and a 
+		conclusion
+
+Total core 6/16 Grade 3
