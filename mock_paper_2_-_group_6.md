@@ -237,9 +237,9 @@ Section C
 		I see no reference to Steeple analysis (social) and to marketing strategy (pan global
 		vs. global localization)
 
-Tota Section C 16/20
+Total Section C 16/20
 
-Total Score 58/70 Grade 70
+Total Score 58/70 Grade 7
 
 Evelina
 
@@ -541,7 +541,7 @@ Question 4
 		c		4/4
 
 		d		4/10
-				Negotiation / Arbitratio is a viable method.
+				Negotiation / Arbitration is a viable method.
 				The second one isn't as the players are fed up with the management Style of Dave.
 				A change of management style or a non-strike agreement are other options
 
@@ -575,3 +575,112 @@ Section C
 Total Section C 16/20
 
 Total Score 47/70 Grade 7
+
+Zhirui
+
+Section A
+
+Question 1
+
+		a		2/2
+
+		b		6/6
+
+		c		2/2
+
+Total Section A 10/10
+
+Section B
+
+Question 4
+
+		a		2/2
+
+		b		4/4
+
+		c		4/4
+
+		d		10/10
+				Well balanced analysis
+
+Question 5
+
+		a		2/2
+
+		b		2/4
+				Sometimes the mission statement is a pure exercise of PR
+
+		c		2/4
+				Ok for going public, but for the bank loan, CH must find a bank that has
+				the same ethical values
+
+		d		8/10
+				Your quantitative analysis is excellent but you overlooked the fact that
+				stopping the production of the anti-venom vaccine, to purse more profitable
+				options is in open contrast with the CH's mission statement	
+
+Total Section B 36/40
+
+Section C
+
+		Criterion A 4
+		Criterion B 2
+		Criterion C 2
+		Criterion D 4
+		Criterion E 4
+
+		I do not see connection with R&D and social audit; how do The Body Shop reports his CSR to
+		stakeholders? The question is even more important now that the company was taken over by
+		L'Oreal. L'Oreal has no ethical stance in his mission statement; does The Body Shop still
+		operates according to its initial mission statement?
+
+Total Section C 16/20
+
+Total Score 62/70 Grade 7
+
+Stephan
+
+Section A
+
+Question 1
+
+		a		2/2
+
+		b		4/6
+				You made a mistake in writing the cost of electricity
+
+		c		2/2
+
+Total Section A 8/10
+
+Section B
+
+Question 5
+
+		a		2/2
+
+		b		2/4
+				Sometimes the mission statement is a pure exercise of PR
+
+		c		4/4
+
+		d		10/10
+				Good that you considered the options against the mission statement
+
+Total Section B 18/20
+
+Section C
+
+
+		Criterion A 4
+		Criterion B 4
+		Criterion C 2
+		Criterion D 4
+		Criterion E 4
+				
+		Is the decreasing of lithium usage in batteries, dictated by an ethic scruple or it is
+		just a matter of financial efficiency? Genuinity of ethics and CSR can not be overlooked.
+
+Total Section C 18/20
+
+Total Score 44/50 Grade 7
