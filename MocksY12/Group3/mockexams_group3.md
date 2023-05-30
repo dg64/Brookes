@@ -204,3 +204,247 @@ Question 3	Sassy
 		c		1/2
 				A decision tree assumes that what happened in the past will happen also in the future
 
+Section B
+
+		a		2/2
+
+		b		2/2
+
+		c		2/6
+				Here the question clearly stated that the perspective was from the business side, not from
+				the customer side, so I can not accept the benefit for the customer
+				How the limited product range is going to affect negatively the company? You should have 
+				mentioned the stronger competition in the e-commerce
+
+		d		6/10
+				You were expected to  mention 2 advantages and 2 disadvantages for each option
+				You did not mention the different types of growth (orizontal and vertical forward); for each
+				type of growth you did not mention advantages and disadvantages.
+				With a merger there no more company A and company B; there is only company AB. Saying that a merger
+				could potentially lead to lower sale for one of the no-longer existing companies makes no sense.
+
+Total Score 32/50 Grade 4
+
+Andrey
+
+Section A
+
+Question 1	Sassy
+		
+		not answered
+
+
+Question 2	Mutombo
+
+		a		2/2
+
+		b
+
+			i	0/2
+				I do no see here the application of the formula:
+				(36000 + 9000 + 19000 + 48000 + 18000) / (100 - 55 - 5) = 130000/40 = 2350
+
+			ii	0/4
+				There is no chart
+
+			iii	0/2
+				I do not understand your calculation, beside the fact that the result is wrong and it doesn't match
+				with what you wrote.
+
+Section B
+
+		a		2/2
+
+		b		0/2
+				(5.000.000 / 50.000.000) / 100 = 10%
+
+		c		4/6
+				You were expected to list an andvantage for the company, not for the customer.
+				Global reach.
+				Chances for higher sales
+
+		d		6/10
+				Beside the fact that I was expecting 2 advantages and 2 disadvantages for each option, you did not
+				reference the two different types of growth (horizontal and vertical forward; for each time of
+				growth you did not list advantages and disadvantages, e.g. horizontal - economies of scale, 
+				increase market share, redundancy, culture clash
+
+Total Score 14/50 Grade 2
+
+Haifa
+
+Section A
+
+Question 1	Sassy
+
+		a		0/2
+				Risk of breakdown of machinery, no room for mistakes or for additional orders
+
+		b		2/6
+				The decision tree is not accurately constructed and there is not evidence of calculation;
+				the final decision is also incorrect; you need to revise this topic
+
+		c		0/2
+				it is a quantitative tool, not a quantitative; it is based on the assumption that what happened
+				in the past wil happen also in the future
+
+Question 2	Las Migas
+
+		a		1/2
+				ok only for the market strategy; other possible components are:
+				exective summary
+				h-r strategy
+				operation strategy
+
+		b		2/6
+				you made more than 4 mistates in your Cash Flow Forecast; the opening of the months from 2 to 4 is incorrect
+				as you did not report the closing of the previous month; you also overlooked that from month 3 and 4 the expected
+				sales were 3500 instead of 1500, and you did not recalculate the perentage of variable costs
+
+		c		2/2
+				Strong competition. This is one of the main problem of startup businesses, along with tight finances.
+
+Question 3	Mutombo
+
+		a		0/2
+				Internal growth is the expension of premises
+
+		b		
+
+			i	0/2
+				Here you were required to just apply a formula and calculate the BE
+				(36000 + 9000 + 19000 + 48000 + 18000) / (100 - 55 - 5) = 130000/40 = 2350
+
+			ii	2/6
+				Your chart is incorrect; there is no TR curve and the calculation of TC is incorrect, as it is the BE
+
+			iii	0/2
+
+Section B
+
+		a		0/2
+				a MNC is a company with operations in oversea markets
+
+		b		0/2
+
+		c		0/6
+				you can not state that the same solution is expensive and cheap at the same time.
+				disadvantages: increased costs of storage and warehouse, chance of handling returned product, strong
+				competition with other online retailer
+				advantages: global reach chances for higher sales, lower costs compared to a physical store
+
+		d		0/10
+				not answered
+
+Total Score  9/50 Grade 1
+
+Kira
+
+Section A
+
+Question 1	Sassy
+
+		a		0/2
+				Risk of breakdown of machinery, no room for mistakes or for additional orders
+
+		b		0/6
+	
+		c		0/2
+				it is a quantitative tool, not a quantitative; it is based on the assumption that what happened
+				in the past wil happen also in the future
+
+Question 2	Las Migas
+
+		a		2/2
+				I will accept primary and secondary market research but not branding
+
+		b		5/6
+				You lost one poit because your forgot the currency sign
+
+		c		0/2
+				strong competition; tight finances
+
+Question 3	Mutombo
+
+		a		0/2
+				Internal growth is the expension of premises
+
+		b
+			i	0/2
+				(36000 + 9000 + 19000 + 48000 + 18000) / (100 - 55 - 5) = 130000/40 = 2350
+
+			ii	1/4
+				no name on the axis, no currency sign, wrong calculation, no indication of the BE point
+
+			iii	0/2
+
+Section B
+
+		a		0/2
+				a MNC is a company with operations in oversea markets
+
+		b		2/2
+
+		c		0/6
+				You were supposed to use the perspective of the company, not the one of the customer
+				you can not state that the same solution is expensive and cheap at the same time.
+				disadvantages: increased costs of storage and warehouse, chance of handling returned product, strong
+				competition with other online retailer
+				advantages: global reach chances for higher sales, lower costs compared to a physical store
+
+Total Score 10/50 Grade 1
+
+Ustinyia
+
+Section A
+
+		a		2/4
+				it is correct to say that if you have a plan you know what is the next step, but you have to express
+				this in business management terms; a strategy gives you direction, it motivates people, it will give
+				you the framework for setting goals and targets ad corporate, divisional and departmental level
+
+		b		0/2
+				A joint venture is a combination of two businesses, that create a third legal identity, joining their
+				forces to achieve a strategic target. If you have two companies, A and B, in a joint venture they will
+				create a new company, called C in which both of them particpate; A and B continue to exist.
+
+		c		0/4
+				Internal growth happens when a business expands it premises, like a chain that opens a new restorant or
+				a new supermarket; external growth happens by take over or merger.
+
+		d		0/2
+				SWOT is an acronym for Strengths, Weaknesses, Opportunities and Threats; is a qualitative tool use to assess
+				internal (SW) and external (OT) that can affect the business in a positive or negative way; the goal is to
+				find opportunities to exploit or point of concern to address
+
+		e		0/4
+				A mission statements what is the business about; what he does, why he does it, for whom he does it. Is is used
+				as a means of communication to external and internal stakeholders; it is the root of the strategies of a business.
+
+Section B
+
+		a		1/2
+				Inflation is the rate of increase of costs, not the increase of costs itself
+
+		b		0/4
+				You need to read carefully the question and the test case; here you are required to give the perspective of the 
+				business; for manufacturing industries the push-cost inflation has increased cost of production and eroded margin
+				of profits; Chinese businesses might be forced to raise the price, with the possible effect of experiencing a decrease
+				in sales
+
+		c		1/4
+				an increse in interest rate means that the cost of money is higher; as a consequence consumers will slow down in making
+				hire purchases; this drop in demand will be reflect on the final price of products; business also will slow down
+				meaning that their demand for raw material will decrease, causing a decrease in cost as well.
+
+		d		0/10
+				Here you were expected to write a mini essay, with an introduction, a body and a concusion.
+				In the body you are required to present two advantages and two disadvantages, referencing the stimulus material provided.
+				In this case the advantages are
+				- more jobs created
+				- higher standards of life
+				The advantages are
+				- increased environmental problems (pollution)
+				- increase of inflation created by the high increase of demand
+
+Total Score 4/40 Grade 1	
