@@ -1,4 +1,0 @@
-# nota di prova
-
-funziona?
-
