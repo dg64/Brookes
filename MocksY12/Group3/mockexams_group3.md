@@ -448,3 +448,58 @@ Section B
 				- increase of inflation created by the high increase of demand
 
 Total Score 4/40 Grade 1	
+
+Max Bonici
+
+Section A
+
+Question 1
+
+        a       2/2
+
+        b       6/6
+
+        c       2/2
+
+Question 2
+
+        a       2/2
+
+        b
+
+            i   2/2
+
+            ii  4/4
+
+            iii 2/2
+
+Question 3
+
+        a       1/2
+                H-R Strategy
+                Marketing Strategy
+                Executive Summary
+
+        b       6/6
+
+        c       2/2
+
+Section B
+
+        a       2/2
+
+        b       2/2
+
+        c       3/6
+                I will accept only one advantage and one disadvantage because
+                for the others, even though they are correct, they use the
+                perspective of the customers, while you were requested to
+                describe advantages and disadvantages for the business.
+
+        d       8/10
+                It was good that you mentioned the two types of growth, but you
+                made a mistake when you wrote than in option 2 TS could lose part
+                of control of the marketing mix. How can you loose control if the
+                company is yours?
+
+Total Score 45/50 Grade 6
