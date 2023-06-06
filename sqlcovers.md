@@ -1,4 +1,7 @@
 # SQLCovers
+Imported until week 40
+
+
 CREATE TABLE Teachers(idTeacher INTEGER PRIMARY KEY, FirstNameLastName TEXT NOT NULL UNIQUE);
 
 CREATE TABLE tmpcover(
@@ -17,6 +20,8 @@ TeacherAskingCover TEXT NOT NULL,
 TeacherGivingCover TEXT NOT NULL,
 PRIMARY KEY (DateCover, Period, TeacherAskingCover)
 );
+
+select Date, TeacherAskingCover, Period, count(Period) as AA from tmpcover group by Date, TeacherAskingCover, Period having AA > 1 order by Date;
 
 insert into Covers (DateCover, Period, TeacherAskingCover, TeacherGivingCover) select substr(Date, 7, 4) || "-" || substr(date, 4, 2) || "-" || substr(date, 1, 2) as DateCover, Period, TeacherAskingCover, TeacherGivingCover from tmpcover;
 
