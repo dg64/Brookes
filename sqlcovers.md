@@ -35,5 +35,25 @@ select DateCover, strftime( "%w", DateCover) from Covers;
 select DateCover, strftime("%Y", DateCover) As YearCover, strftime("%m", DateCover) As MonthCover, strftime("%d", DateCover) As DayCover,
 	IIF(strftime("%w", DateCover) = 1, "Monday", IIF(strftime("%w", DateCover) = 2, "Tuesday", IIF(strftime("%w", DateCover) = 3, "Wednesday", IIF(strftime("%w", DateCover) = 4, "Thursday", IIF(strftime("%w", DateCover) = 5, "Friday", IIF(strftime("%w", DateCover) == 6, "Saturday", "Sunday")))))) As DayOfWeekCover, Period, TeacherAskingCover, TeacherGivingCover,
 From Covers
-Order By DateCover, Period TeacherAskingCover
-,
+Order By DateCover, Period, TeacherAskingCover;
+
+CREATE VIEW ViewCovers As
+select DateCover, strftime("%Y", DateCover) As YearCover, strftime("%m", DateCover) As MonthCover, strftime("%d", DateCover) As DayCover,
+
+	IIF(strftime("%w", DateCover) = "1", "Monday", IIF(strftime("%w", DateCover) = "2", "Tuesday", IIF(strftime("%w", DateCover) = "3", "Wednesday", IIF(strftime("%w", DateCover) = "4", "Thursday", IIF(strftime("%w", DateCover) = "5", "Friday", IIF(strftime("%w", DateCover) = "6", "Saturday", "Sunday")))))) As DayOfWeekCover, Period, TeacherAskingCover, TeacherGivingCover
+
+From Covers
+
+Order By DateCover, Period, TeacherAskingCover;
+
+Create View TopListFriday As 
+Select TeacherAskingCover, Count(TeacherAskingCover) As Counter From (
+Select DateCover, TeacherAskingCover from ViewCovers Where DayOfWeekCover = "Friday" Group By DateCover, TeacherAskingCover Order By TeacherAskingCover, DateCover)
+Group By TeacherAskingCover Order By Count(TeacherAskingCover) desc;
+
+Create View TopListMonday As 
+Select TeacherAskingCover, Count(TeacherAskingCover) As Counter From (
+Select DateCover, TeacherAskingCover from ViewCovers Where DayOfWeekCover = "Monday" Group By DateCover, TeacherAskingCover Order By TeacherAskingCover, DateCover)
+Group By TeacherAskingCover Order By Count(TeacherAskingCover) desc;
+
+
