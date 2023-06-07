@@ -21,6 +21,7 @@ TeacherGivingCover TEXT NOT NULL,
 PRIMARY KEY (DateCover, Period, TeacherAskingCover)
 );
 
+# Check consistency of tmpcover before making the insert
 select Date, TeacherAskingCover, Period, count(Period) as AA from tmpcover group by Date, TeacherAskingCover, Period having AA > 1 order by Date;
 
 insert into Covers (DateCover, Period, TeacherAskingCover, TeacherGivingCover) select substr(Date, 7, 4) || "-" || substr(date, 4, 2) || "-" || substr(date, 1, 2) as DateCover, Period, TeacherAskingCover, TeacherGivingCover from tmpcover;
@@ -29,3 +30,10 @@ Select TeacherGivingCover, Count(TeacherGivingCover) As Hours from Covers Group 
 
 Select TeacherAskingCover, Count(TeacherAskingCover) As Hours from Covers Group By TeacherAskingCover Order By Count(TeacherAskingCover) Desc;
 
+select DateCover, strftime( "%w", DateCover) from Covers;
+
+select DateCover, strftime("%Y", DateCover) As YearCover, strftime("%m", DateCover) As MonthCover, strftime("%d", DateCover) As DayCover,
+	IIF(strftime("%w", DateCover) = 1, "Monday", IIF(strftime("%w", DateCover) = 2, "Tuesday", IIF(strftime("%w", DateCover) = 3, "Wednesday", IIF(strftime("%w", DateCover) = 4, "Thursday", IIF(strftime("%w", DateCover) = 5, "Friday", IIF(strftime("%w", DateCover) == 6, "Saturday", "Sunday")))))) As DayOfWeekCover, Period, TeacherAskingCover, TeacherGivingCover,
+From Covers
+Order By DateCover, Period TeacherAskingCover
+,
