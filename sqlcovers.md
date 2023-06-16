@@ -40,7 +40,7 @@ Order By DateCover, Period, TeacherAskingCover;
 CREATE VIEW ViewCovers As
 select DateCover, strftime("%Y", DateCover) As YearCover, strftime("%m", DateCover) As MonthCover, strftime("%d", DateCover) As DayCover,
 
-	IIF(strftime("%w", DateCover) = "1", "Monday", IIF(strftime("%w", DateCover) = "2", "Tuesday", IIF(strftime("%w", DateCover) = "3", "Wednesday", IIF(strftime("%w", DateCover) = "4", "Thursday", IIF(strftime("%w", DateCover) = "5", "Friday", IIF(strftime("%w", DateCover) = "6", "Saturday", "Sunday")))))) As DayOfWeekCover, Period, TeacherAskingCover, TeacherGivingCover
+	IIF(strftime("%w", DateCover) = "1", "Monday", IIF(strftime("%w", DateCover) = "2", "Tuesday", IIF(strftime("%w", DateCover) = "3", "Wednesday", IIF(strftime("%w", DateCover) = "4", "Thursday", IIF(strftime("%w", DateCover) = "5", "Friday", IIF(strftime("%w", DateCover) = "6", "Saturday", "Sunday")))))) As DayOfWeekCover, strftime("%W", DateCover) As WeekCover, Period, TeacherAskingCover, TeacherGivingCover
 
 From Covers
 
@@ -56,4 +56,10 @@ Select TeacherAskingCover, Count(TeacherAskingCover) As Counter From (
 Select DateCover, TeacherAskingCover from ViewCovers Where DayOfWeekCover = "Monday" Group By DateCover, TeacherAskingCover Order By TeacherAskingCover, DateCover)
 Group By TeacherAskingCover Order By Count(TeacherAskingCover) desc;
 
+CREATE VIEW CoversPerWeek As 
+select YearCover, WeekCover, TeacherAskingCover, Count(TeacherAskingCover) As HourAskedPerWeek, round((Count(TeacherAskingCover)/35.0)*100,2) As PercentageNotWorked
+From ViewCovers
+Group By YearCover, WeekCover, TeacherAskingCover
+Order By YearCover, WeekCover, Count(TeacherAskingCover) desc
+/* CoversPerWeek(YearCover,WeekCover,TeacherAskingCover,HourAskedPerWeek,PercentageNotWorked) */;
 
