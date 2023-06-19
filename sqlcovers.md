@@ -26,6 +26,7 @@ select Date, TeacherAskingCover, Period, count(Period) as AA from tmpcover group
 
 insert into Covers (DateCover, Period, TeacherAskingCover, TeacherGivingCover) select substr(Date, 7, 4) || "-" || substr(date, 4, 2) || "-" || substr(date, 1, 2) as DateCover, Period, TeacherAskingCover, TeacherGivingCover from tmpcover;
 
+# Use the following two queries to make a comparative table
 Select TeacherGivingCover, Count(TeacherGivingCover) As Hours from Covers Group By TeacherGivingCover Order By Count(TeacherGivingCover) Desc;
 
 Select TeacherAskingCover, Count(TeacherAskingCover) As Hours from Covers Group By TeacherAskingCover Order By Count(TeacherAskingCover) Desc;
@@ -63,3 +64,15 @@ Group By YearCover, WeekCover, TeacherAskingCover
 Order By YearCover, WeekCover, Count(TeacherAskingCover) desc
 /* CoversPerWeek(YearCover,WeekCover,TeacherAskingCover,HourAskedPerWeek,PercentageNotWorked) */;
 
+CREATE VIEW CoversPerYear As 
+select YearCover, TeacherAskingCover, Count(TeacherAskingCover) As HourAskedPerYear, round((Count(TeacherAskingCover)/35.0)*100,2) As PercentageNotWorked
+From ViewCovers
+Group By YearCover, TeacherAskingCover
+Order By YearCover, Count(TeacherAskingCover) desc
+
+CREATE VIEW CoversPerMonth As
+select YearCover, MonthCover, TeacherAskingCover, Count(TeacherAskingCover) As HourAskedPerMonth, round((Count(TeacherAskingCover)/35.0)*100,2) As PercentageNotWorked
+From ViewCovers
+Group By YearCover, MonthCover, TeacherAskingCover
+Order By YearCover, MonthCover, Count(TeacherAskingCover) desc
+/* CoversPerMonth(YearCover,MonthCover,TeacherAskingCover,HourAskedPerMonth,PercentageNotWorked) */;
