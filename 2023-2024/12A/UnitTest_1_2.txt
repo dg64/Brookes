@@ -1,1 +1,92 @@
---tileUnit Test 1.2
+Unit Test 1.2
+
+Proko Ondrejka
+
+Question 1	2/2
+
+Question 2	2/4
+		The company needs to be explicitly mentioned, otherwise the
+		answer is considered theoretical
+
+Question 3	2/4
+		Same as above
+
+Question 4	5/10
+		Same as above. A well structured answer that could have been awarded much more.
+
+Total score 11/20 Grade 4
+
+Elisa Abou-Rjeili
+
+Question 1	2/2
+
+Question 2	4/4
+		Good that you referenced the company
+
+Question 3	4/4
+		Good that you referenced the company
+
+Question 4	10/10
+		Answer very well structured and with reference to the stimulus material.
+		Well done, Elisa.
+
+Total Score 20/20 Grade 7
+
+Abdullah Asif
+
+Question 1	2/2
+
+Question 2	4/4
+		Sharing the capital is not a benefit. You must be more precise in these cases and
+		write, for instance, share the capital invested.
+
+Question 3	4/4
+
+Question 4	7/10
+		The question is well structured and you show understanding of the topic.
+		It is good that you reference the stimulus material in your answer.
+		You need to work on your vocabulary; in your answer you are expected to
+		use business management terms, and calls things with their names, like:
+		limited liability, divorce of ownership from control, access to new sources
+		of finance.
+
+Total Score 17/20 Grade 6	
+
+Yaroslav Campion
+
+Question 1	2/2
+
+Question 2	4/4
+		Sharing the capital is not a benefit. You must be more precise in these cases and
+		write, for instance, share the capital invested.
+
+Question 3	4/4
+
+Question 4	7/10
+		the divorce of ownership from control in not an advantage; it is trade that the two
+		partners needeed to accept, in order to have access to additional sources of
+		finance
+
+Total Score 17/20 Grade 6	
+
+Aleksandra Zhelezozvksaya
+
+Question 1	2/2
+
+Question 2	2/4
+		You need to mention the company
+
+Question 3	2/4
+		Same as above
+
+Question 4	10/10
+		I give you the full score, despite the fact that you wrote something incorrect
+		about a topic that we haven't covered yet. 
+		The minimum level of information  that PLC need to disclosed is established by
+		law; companies do not go beyond it, to not give too much information to the 
+		competition. In the future, stay more close the the topic currently studied.
+		Making connections is appreciated and awarded, but not it is too early.
+
+Total Score 16/20 Grade 6
+
+
