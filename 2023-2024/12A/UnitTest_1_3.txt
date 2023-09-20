@@ -1,0 +1,248 @@
+# UnitTest_1_3.txt
+
+Joshua
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	10/10
+		You made a good point about the presence of a food market and a restaurant.
+
+Total Grade 20/20 Grade 7
+
+Kristina
+
+Question 1	2/2
+
+Question 2	3/4
+		Internal factors can be controller, external factors cannot be controlled
+
+Question 3	4/4
+
+Question 4	10/10
+		Well done!
+
+Total Score 19/20 Grade 7
+
+Christos
+
+Question 1	2/2
+
+Question 2	3/4
+		Internal factors can be controller, external factors cannot be controlled
+
+Question 3	4/4
+
+Question 4	10/10
+		That's the way you are supposed to answer.
+
+Total Score 19/20 Grade 7
+
+Arina
+
+Question 1	1/2
+		Maybe being a bit more explicative?
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	8/10
+		It was a bit difficult to identify two advantages in your text.
+		Make your essay more readable in that sense.
+		Huge improvement
+
+Total Score 17/20 Grade 6
+
+Alika
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	10/10
+		You are dangerously near to plagiarism.
+		You were not meant to copy the text from
+		the case study.
+
+Total Score 20/20 Grade 7
+
+Anna
+
+Question 1	2/2
+		SWOT is use to set objectives.
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	3/10
+		Incomplete answer.
+
+Total Score 12/20 Grade 4
+
+Alexei
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 5	3/10
+		Your answer is unbalanced and without conclusion.
+
+Total Score 13/20 Grade 4
+
+Andermikan
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	6/10
+		You got six because:
+		- you used the word "money"
+		- you linked the corporate objectives to the vision statement, while they
+		  must be linked to the mission statement
+		- you states that SWOT analysis does not give you the full picture
+
+Total Score 16/20 Grade 6 
+
+Ani
+
+Question 1	0/2
+		Revise the definition of SWOT analysis
+
+Question 2	4/4
+
+Question 3	2/4
+		You used the word "money"
+
+Question 4	1/10
+		Insufficient
+
+Total Score 7/20 Grade 2
+
+Arianna
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	10/10
+		Great work!
+
+Total Score 20/20 Grade 7
+
+Igor
+
+Question 1	1/2
+		Insufficient description
+
+Question 2	0/4
+		internal factors can be controlled
+		external factors can not be controlled
+
+Question 3	1/4
+		Which threat? To what sustainability is related to?
+
+Question 4	3/10
+		2015-2023? Where did you get this range from? The case study is from 2009.
+		What mistakes? Where did you read mistakes in the case study.
+		You did not provide any relevant advantage or disadvantage. You just had
+		to read the text.
+
+Total Score 5/20 Grade 2
+
+Dzhamal
+
+Question 1	0/2
+		Revise the definition of SWOT analysis
+
+Question 2	4/4
+
+Question 3	2/4
+		Two point less because you used the word "money"
+
+Question 4	2/10
+		All what you wrote is just parts of the text but you
+		did not relate them with SWOT; for instance the size of the company allows
+		IKEA to benefit from economies of scale, but at the same time, it makes
+		control much more difficult (this is a weaknesses), and that could be
+		a potential problem in countries where there is exploitation of workers
+		and / or children (threat); to minimize the impact of these threats
+		IKEA sends inspectors in those countries.
+
+Total Score 8/20 Grade 3
+
+Daria
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	2/4
+		Budgeting a customer????
+
+Question 4	4/10
+		No conclusion.
+		No reference to the stimulus material
+
+Total Score 12/20 Grade 4
+
+Rufina
+
+Question 1	0/2
+		Revise the definition of SWOT
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	2/10
+		All what you wrote is just parts of the text but you
+		did not relate them with SWOT; for instance the size of the company allows
+		IKEA to benefit from economies of scale, but at the same time, it makes
+		control much more difficult (this is a weaknesses), and that could be
+		a potential problem in countries where there is exploitation of workers
+		and / or children (threat); to minimize the impact of these threats
+		IKEA sends inspectors in those countries.
+		
+Total Score 10/20 Grade 3
+
+Nikita
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	2/10
+		Insufficient
+
+Total Score 12/20 Grade 4
+
+Aleksandr
+
+Question 1	1/2
+		SWOT is used to analyze the current situation, not to forecast
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	0/10
+		No answer
+
+Total Score 9/20 Grade 3
