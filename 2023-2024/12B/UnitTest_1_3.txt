@@ -1,0 +1,125 @@
+# UnitTest_1_3.txt
+
+Elisa
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	7/10
+		Ansoff Matrix and SWOT Analysis are both qualitative tools; compraring them saying
+		that Ansoff Matrix is more precise is incorrect.
+
+Total Score 17/20 Grade 6
+
+Max
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	10/10
+
+Total score 20/20 Grade 7
+
+Yaroslav
+
+Question 2	2/2
+
+Question 2	4/4
+
+Question 3	2/4
+		A change in social trend is not necessarily negative; in the case of IKEA,
+		the increased sensitivity of  customers towards sustainability, was an
+		opportunity for IKEA
+
+Question 4	5/10
+		you answer is theoretical
+		For instance the size of the company allows IKEA to benefit from economies of 
+		scale, but at the same time, it makes control much more difficult (this is a weaknesses), 
+		and that could be a potential problem in countries where there is exploitation of workers        \
+		and / or children (threat); to minimize the impact of these threats        
+		IKEA sends inspectors in those countries."
+
+Total Score 13/20 Grade 5
+
+Alexandra Zhelezovskaya
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	7/10
+		SWOT has no SMART objectives; SWOT is used to set SMART objectives.
+
+Total Score 17/20 Grade 6
+
+Abdullah
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	7/10
+		You mention weaknesses but you do not provide examples.
+		For instance the size of the company allows IKEA to benefit from economies of 
+		scale, but at the same time, it makes control much more difficult (this is a weaknesses), 
+		and that could be a potential problem in countries where there is exploitation of workers        \
+		and / or children (threat); to minimize the impact of these threats        
+		IKEA sends inspectors in those countries."
+
+Total Score 17/20 Grade 6
+
+Julie
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	10/10
+		well done!
+
+Total Scoere 20/20 Grade 7
+
+Jihyeon
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	10/10
+		For this time I assume that you make a mistake and inverted the terms
+		qualitative and quantitative ....
+
+Total SCore 20/20 Grade 7
+
+Anna
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	6/10
+		Yoy did not reference the stimulus material; actually you did in in the previous
+		answer; there were plenty of examples to mention:
+		For instance the size of the company allows IKEA to benefit from economies of 
+		scale, but at the same time, it makes control much more difficult (this is a weaknesses), 
+		and that could be a potential problem in countries where there is exploitation of workers        \
+		and / or children (threat); to minimize the impact of these threats        
+		IKEA sends inspectors in those countries."
+
+Total Score 16/20 Grade 6
