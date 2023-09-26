@@ -1,0 +1,116 @@
+# UnitTest_2_3.txt
+
+Chae
+
+Question 1	2/2
+
+Question 3	4/4
+
+Question 3	4/4
+
+Question 4	10/10
+
+Total score 20/20 Grade 7
+
+Alexandra
+
+Question 1	2/2
+
+Question 3	4/4
+
+Question 3	4/4
+
+Question 4	10/10
+
+Total score 20/20 Grade 7
+
+Seoyun
+
+Question 1	2/2
+
+Question 3	4/4
+
+Question 3	4/4
+
+Question 4	10/10
+
+Total score 20/20 Grade 7
+
+Parisa
+
+Question 1	2/2
+
+Question 3	4/4
+
+Question 3	4/4
+
+Question 4	6/10
+		Where is the conclusion???
+
+Total score 16/20 Grade 6
+
+Ana
+
+Question 1	2/2
+
+Question 3	4/4
+
+Question 3	4/4
+
+Question 4	10/10
+		keep working this way.
+
+Total score 20/20 Grade 7
+
+Robert
+
+Question 1	2/2
+
+Question 3	4/4
+
+Question 3	4/4
+
+Question 4	10/10
+
+Total score 20/20 Grade 7
+
+Chau
+
+Question 1	2/2
+
+Question 3	4/4
+
+Question 3	4/4
+
+Question 4	10/10
+		Well done Chau. I am very pleased of your performance.
+
+Total score 20/20 Grade 7
+
+Andzhej
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	5/10
+		There is no introduction.
+		Revise the managament styles; in autocratic styles staff doesn't
+		take any responsibility.
+
+Total Score 15/20 Grade 5
+
+Daniel
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	8/10
+		Well done Daniel! Can I see more works like this one, in the future?
+
+Total score 18/20 Grade 6
