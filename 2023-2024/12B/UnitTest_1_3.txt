@@ -250,3 +250,27 @@ Question 4	4/10
 		Your answer is unbalanced as you provided only 1 advantage and 1 disadvantage
 
 Total Score 10/20 Grade 3
+
+Igor
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	2/4
+		The IKEA's strategy is not to have the lowest prices possible; revise the case study.
+		You mixes the word cost and price; they are two different things
+
+Question 4	5/10
+		You need to apply the content to the context
+		For instance the size of the company allows IKEA to benefit from economies of 
+		scale, but at the same time, it makes control much more difficult (this is a weaknesses), 
+		and that could be a potential problem in countries where there is exploitation of workers        \
+		and / or children (threat); to minimize the impact of these threats        
+		IKEA sends inspectors in those countries."
+		Your analysis also shows an incorrect understanding of SWOT analysys. The goal of the tool
+		is not the one of giving a solution; there is no such Business Management tools; SWOT helps
+		you analyze internal and external factors that, when matched, can be on apportunity to 
+		exploit or a threat to manage.
+
+Total Score 13/20 Grade 5
