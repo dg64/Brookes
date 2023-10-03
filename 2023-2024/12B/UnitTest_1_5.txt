@@ -1,0 +1,315 @@
+# UnitTest_1_5.txt
+
+Julia
+
+Question 1	2/2
+
+Question 2	0/4
+		The calculation where meant to be done for the 15000 jeans sold
+
+Question 3	4/4
+
+Question 4	0/4
+		The question was about costs, not about external factors; potential
+		additional costs for importing jeans can be: shipping costs,
+		import tax.
+
+Question 5	2/6
+		You made a good point about the competitive advantage.
+		There are two flaws in your analysis:
+		- lowering sales is meaningless; why would the company do that?
+		- Why would the American company stop to supply JKL?
+
+Total Score  8/20 Grade 3
+
+Roman
+
+Question 1	2/2
+
+Question 2	4/4
+		Well done
+
+Question 3	3/4
+		I would like to see more business management terms, like appreciation and depreciation
+		of currency
+
+Question 4	0/4
+		No answer?
+
+Quesiton 5	2/6
+		Same as for question 3.
+
+Total Score 11/20 Grade 4
+
+Elisa
+
+Question 1	2/2
+
+Question 2	2/4
+		you made a mistake in the calculation of the exchange rate
+
+Question 3	3/4
+		I would like to see more business management terms, like appreciation and depreciation
+		of currency
+
+Question 4	4/4
+		Well answered!
+
+Question 5	6/6
+		Not entirely correct, but I will take for good this time.
+		JKL does not produce overseas; it is just a retailer
+
+Total Score 17/20 Grade 6
+
+Sofiya Balyan
+
+No answers
+
+Total Score 0/20 Grade 0
+
+Jihyeon
+
+Question 1	2/2
+		Please do not use the word "money"
+
+Question 2	0/4
+		Calculation incorrect
+
+Question 3	2/4
+		I assume that you misspelled the word; according to your statement an increase in exchange rate
+		leads to a loss. It is the opposite. Instead of increase and decrease, use the terms
+		appreciation and depreciation
+
+Question 4	0/4
+		Tax do not give profit.
+		Storage cost are not related with import.
+		Import tax.
+		Shipping costs
+
+Question 5	2/6
+		You need to revise this topic. The exchange rate is not something that the business can set;
+		you keep using the word money and the terms increase and decrease instead of appreciation and
+		depreciation. 
+		A high exchange rate might have a negative influence on the level of exports, causing a decrease
+		of demand, a decrease of workforce needed and ultimately, a decrease of disposable income.
+
+Total Score 6/20 Grade 2	
+
+Abdullah
+
+Question 1	2/2
+		The value of a currency related to another currency.
+
+Question 2	2/4
+		Partial calculation
+
+Question 3	3/4
+		Use must use terms as appreciation and depreciation
+
+Question 4	0/4
+		Import tax.
+		Shipping costs
+
+Question 5	2/6
+		You need to revise this topic. The exchange rate is not something that the business can set;
+		A high exchange rate might have a negative influence on the level of exports, causing a decrease
+		of demand, a decrease of workforce needed and ultimately, a decrease of disposable income.
+
+Total Score 9/20 Grade 3
+
+Arsenii
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	0/4
+		It is the value of the pound that increases
+
+Question 4	4/4
+		Well answered
+
+Question 5	4/6
+		The exchange rate is not a fixed price.
+
+Total Score 14/20 Grade 5
+
+Ana
+
+Question 1	2/2
+		Next time qualify the currency as a foreign one
+
+Question 2	0/4
+		incorrect calculation
+
+Question 3	3/4
+		The production is not cheaper; it is the dollars that depreciates
+
+Question 4	2/4
+		Import tax
+
+Question 5	0/6
+		you mixed the perspectives of the two economies/currencies
+		and your assumptions are the opposite of what happens in case of
+		a strong or weak currency
+
+Total Score 7/20 Grade 2
+
+Yaroslav
+
+Question 1	2/2
+
+Question 2	2/4
+		The calculation where meant to be done for 15000 jeans; you saved
+		yourself 2 points writing that the figures were related to a single
+		pair of jeans
+
+Question 3	4/4
+		Use the words appreciate / depreciate
+
+Question 4	4/4
+		Well answered
+
+Question 5	4/6
+		The second opportunity is incorrect;
+
+Total Score 16/20 Grade 6
+
+Maximilian
+
+Question 1	2/2
+
+Question 2	4/4
+
+Question 3	4/4
+
+Question 4	0/4
+		Here you missed the point of the question.
+		Transportation costs
+		Import tax
+
+Question 5	3/6
+		more jeans on the market can cause an excess of supply and a decrease of price
+		customers might want to buy the same jeans from a country with a lower exchange rate
+
+Total Score 13/20 Grade 5
+
+Prokop
+
+Question 1	1/2
+		a currency; not a value
+
+Question 2	0/4
+		The values were supposed to be calculated for the 15000 jeans
+
+Question 3	4/4
+
+Question 4	2/4
+		Import tax
+
+Question 5	0/6
+		Do you assume that a strong currency is unstable?
+		Beside the obvious threat of fluctuations in the exchange rate; a high exchange rate might push
+		JKL to buy more jeans and creates a surplus a demand that, ultimately, will lead in a 
+		decrease of price. A strong currency might also push customers to look for the some product
+		in cheaper markets.
+
+Total Score 9/20 Grade 3
+
+Alice
+
+Question 1	2/2
+
+Question 2	0/4
+		The values were supposed to be calculated for the 15000 jeans
+
+Question 3	1/4
+		What does it mean "the profit or loss increases"?
+		"decrease by the numbers of the price"??
+
+Question 4	2/4
+		Import tax
+
+Question 5	2/6
+		There is no increase in price and there is no guarantee that with an increase in price JKL
+		will maintain the same level of sales, moreover we do not know about the price elasticity
+		of demand of that particular product.
+		Your observation about competitiveness with other markets (the ones with a weaker currency 
+		- that you did not mention); but the reason for that, again, is incorrect; there is no
+		increase in price from JKL
+
+Total Score  7/20 Grade 3
+
+Igor
+
+Question 1	2/2
+
+Question 2	0/4
+		The values were supposed to be calculated for the 15000 jeans
+
+Question 3	4/4
+
+Question 4	2/4
+		Import tax
+
+Question 5	0/6
+		You have made a lot of confusion.
+		Why a UK based company would sell in USA, jeans bought from USA???
+
+Total score 8/20 Grade 3
+
+Aleksandra
+
+Question 1	2/2
+
+Question 2	0/4
+		The values were supposed to be calculated for the 15000 jeans
+
+Question 3	0/4
+		It is the opposite
+
+Question 4	4/4
+
+Question 5	3/6
+		Why would a company try to export to a country where is difficult to sell due to
+		the exchange rate.
+		Buying more jeans to resell on the UK market can cause an excess of supply and a
+		decrease in price.
+
+Total Score 9/20 Grade 3
+
+Danil
+
+Question 1	2/2
+
+Question 2	0/4
+		Incorrect calculation
+
+Question 3	3/4
+		The exchange rate is higher, not lower
+
+Question 4	4/4
+
+Question 5	4/6
+		With strong currency you do not attract investors.
+
+Total Score 13/20 Grade 5
+
+Affan
+
+Question 1	2/2
+
+Question 2	0/4
+		Incorrect calculation
+
+Question 3	0/4
+		With the appreciation of the pound toward the American dollar, the cost for JKL decreases.
+
+Question 4	2/4
+		Transport
+		Import tax
+
+Question 5	0/6
+		You did not read the case study carefully
+
+Total Score 4/20 Grade 2
