@@ -139,7 +139,7 @@ Ana
 Question 1	2/2
 		Next time qualify the currency as a foreign one
 
-Question 2	0/4
+Question 2	2/4
 		incorrect calculation
 
 Question 3	3/4
@@ -148,12 +148,12 @@ Question 3	3/4
 Question 4	2/4
 		Import tax
 
-Question 5	0/6
+Question 5	9/6
 		you mixed the perspectives of the two economies/currencies
 		and your assumptions are the opposite of what happens in case of
 		a strong or weak currency
 
-Total Score 7/20 Grade 2
+Total Score 7/20 Grade 3
 
 Yaroslav
 
