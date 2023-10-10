@@ -1,0 +1,115 @@
+# UnitTest_2_4.txt
+Max
+Question 1	2/2
+
+Question 2	2/2
+
+Question 3	6/6
+
+Question 4	10/10
+		Well done
+
+Total Score 20/20 Grade 7
+
+Jina
+Question 1	2/2
+
+Question 2	2/2
+
+Question 3	6/6
+
+Question 4	10/10
+		Well done
+
+Total Score 20/20 Grade 7
+
+Claudia
+Question 1	2/2
+
+Question 2	2/2
+
+Question 3	6/6
+
+Question 4	10/10
+		Very good, Claudia
+
+Total Score 20/20 Grade 7
+
+Alina
+
+Question 1	2/2
+
+Question 2	2/2
+
+Question 3	6/6
+
+Question 4	10/10
+		Very good, Claudia
+
+Total Score 20/20 Grade 7
+
+Matvey
+
+Question 1	2/2
+
+Question 2	2/2
+
+Question 3	6/6
+
+Question 4	8/10
+		Very good, Matvey. You just need to try to have more link between
+		your analysis and the syllabus. Here you were expected to explicitly cite
+		motivation theories.
+
+Total Score 18/20 Grade 6
+
+Andrey
+
+Question 1	2/2
+
+Question 2	2/2
+
+Qestion 3	6/6
+		You wrote too much for 6 points
+
+Question 4	8/10
+		Very good, Andrey. You just need to try to have more link between
+		your analysis and the syllabus. Here you were expected to explicitly cite
+		motivation theories.
+
+Total Score 18/20 Grade 6
+
+Andzhelina
+
+Question 1	2/2
+
+Question 2	2/2
+
+Qestion 3	6/6
+		You wrote too much for 6 points
+
+Qestion 3	6/6
+		You wrote too much for 6 points
+
+Question 4	10/10
+		Well done.
+
+Total Score 20/20 Grade 7
+
+Haifa
+
+Question 1	2/2
+
+Question 2	1/2
+		Performance related pay is a compensation given on top of the salary, for extra
+		performance
+
+Question 3	3/6
+		Theoretical answer. You needed to apply these theories to CIC
+
+Question 4	6/10
+		The theories must be mentioned in the analysis, not in the conclusion.
+		The conclusion must only have an evaluation of your ananlysis, without bringing
+		any new information.
+
+Total Score 12/20 Grade 4
