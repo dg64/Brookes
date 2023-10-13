@@ -1,0 +1,149 @@
+# UnitTest_2_4.txt
+
+Robert
+
+Question 1	2/2
+
+Question 2	2/2
+
+Question 3	3/6
+		Theoretical answer
+
+Question 4	9/10
+		I was expecting someting related to Maslow and status, in association with fringe benefits
+
+Total Score 16/20 Grade  6
+
+Chae
+
+Question 1	2/2
+
+Questio 2	2/2
+		An increase in salary is not always granted. Often it is a bonus
+
+Question 3	4/6
+		Autonomous does not mean independent. The employee is empowered to decide what is the best way
+		to complete his task. The evaluation of the task completed is part of the feedback and is not meant
+		to limit the employee, on the contrary is meant to let him know that his work is aknowledged
+
+Question 4	10/10
+		Good answer
+
+Total Score 18/20 Grade 6
+
+Parisa
+
+Question 1	2/2
+
+Question 2	2/2
+
+Question 3	3/6
+		The first level of need in Maslow theory is satisfied with the receivement of the salary; lowering
+		the salary does not make that need unsatisfied; moreover, the contract is still in place, meanining
+		that also the next level, security, is still satisfied.
+
+Question 4	7/10
+		Where is the conclusion?
+
+Total Score 14/20 Grade 5
+
+Seyoun
+
+Question  1	2/2
+
+Question 2	2/2
+
+Question 3	3/6
+		Maslow is not appropriate in your example. Herzberg would have been a more suitable fit
+
+Question 4	10/10
+
+Total Score 17/20 Grade 6
+
+Chau
+
+Question 1	2/2
+
+Question 2	2/2
+
+Question 3	4/6
+		Yes for n-Ach, no for n-Pow. The achievement of the target does not grant any better position inside
+		the company; at least this is not stated in the text
+
+Question 4	10/10
+
+Total Score 18/20 Grade 6
+
+Andzhei
+
+Question 1	2/2
+
+Question 2	2/2
+
+Question 3	3/6
+		Theoretical answer
+
+Question 4	5/10
+		No names provided; insufficient content.
+		That is not you.
+
+Total Score 12/20 Grade 4
+
+Daniel
+
+Question 1	2/2
+
+Question 2	2/2
+
+Question 3	2/6
+		You mention the theories but you do not make any link with the case study
+
+Question 4	6/10
+		There is no conclusion and only one theory referenced.
+
+Total Score 12/20 Grade 4
+
+Piya
+
+Question 1	2/2
+
+Question 2	1/2
+		Performance Related Pay is paid on top of the salary for excellent performances.
+		The employee receives his salary in any case
+
+Question 3	2/6
+		The cut in salary will drop motivation, but you can not tie this with Maslow. According
+		to Maslow, money is not a motivator. You could have used Maslow referring at the need of
+		self-esteem satisfied by the perks (company car); the appraisal system could have been
+		associated with the motivator factors of Herzberg and the PRP schema, with the Vroom
+		expectancy theory or Adam equity theory.
+
+Question 4	3/10
+		In this answer you are mixing theories and payment schemas. PRP does not mean getting paid
+		more for working more; it is about bringing extra value to the company; achieve exceptional
+		results. This achievement is rewarded, usually, with a bonus on top of the salary.
+		You mentioned Herzberg without linking his theory to the case study (Motivator, related to
+		the appraisal system and the feedback); hygiene - the bonus paid for above nornal performance).
+
+Total Score 8/20 Grade 3
+
+Arina
+
+Question 1	2/2
+
+Question 2	1/2
+		Performance Related Pay is paid on top of the salary for excellent performances.
+		The employee receives his salary in any case
+
+Question 3	2/6
+		The basic needs in the Maslow theory are only the first two (survival and safety).
+		Consultnats can not manage themselves their salary; this information is nowhere to
+		be found in the case study
+
+Question 4	3/10
+		Insufficient answer for a question worth 10 point.
+		You were expected to provide two advantages and two disadvantages; to link motivational
+		theories to the case study; to provide explanatory examples.
+
+Total Score 8/20 Grade 3
+		
