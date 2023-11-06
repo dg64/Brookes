@@ -1,6 +1,7 @@
 # SQLCovers
 Imported until week 40
 
+## Create Tables statements
 
 CREATE TABLE Teachers(idTeacher INTEGER PRIMARY KEY, FirstNameLastName TEXT NOT NULL UNIQUE);
 
@@ -21,12 +22,24 @@ TeacherGivingCover TEXT NOT NULL,
 PRIMARY KEY (DateCover, Period, TeacherAskingCover)
 );
 
-# Check consistency of tmpcover before making the insert
+## Update Table Teachers
+> .mode csv
+> .drop table tmpteachers;
+> .import tmpteachers.csv tmpteachers
+> delete from Teachers;
+> insert into Teachers (FirstNameLastName) select Teachers from tmpteachers;
+
+## Update Table tmpcover
+> .mode csv
+> delete from tempcover;
+> .import tmpcover.csv tmpcover
+
+## Check consistency of tmpcover before making the insert
 select Date, TeacherAskingCover, Period, count(Period) as AA from tmpcover group by Date, TeacherAskingCover, Period having AA > 1 order by Date;
 
-insert into Covers (DateCover, Period, TeacherAskingCover, TeacherGivingCover) select substr(Date, 7, 4) || "-" || substr(date, 4, 2) || "-" || substr(date, 1, 2) as DateCover, Period, TeacherAskingCover, TeacherGivingCover from tmpcover;
+insert into Covers (DateCover, Period, TeacherAskingCover, TeacherGivingCover) select substr(Date, 7, 4) || '-' || substr(Date, 4, 2) || '-' || substr(Date, 1, 2) as DateCover, Period, TeacherAskingCover, TeacherGivingCover from tmpcover;
 
-# Use the following two queries to make a comparative table
+## Use the following two queries to make a comparative table
 Select TeacherGivingCover, Count(TeacherGivingCover) As Hours from Covers Group By TeacherGivingCover Order By Count(TeacherGivingCover) Desc;
 
 Select TeacherAskingCover, Count(TeacherAskingCover) As Hours from Covers Group By TeacherAskingCover Order By Count(TeacherAskingCover) Desc;
@@ -76,3 +89,7 @@ From ViewCovers
 Group By YearCover, MonthCover, TeacherAskingCover
 Order By YearCover, MonthCover, Count(TeacherAskingCover) desc
 /* CoversPerMonth(YearCover,MonthCover,TeacherAskingCover,HourAskedPerMonth,PercentageNotWorked) */;
+
+CREATE VIEW HoursCoveredForMonths As
+select YearCover, MonthCover, Count(MonthCover) As NumberOfHours from ViewCovers Group by YearCover, MonthCover Order By YearCover, MonthCover;
+
