@@ -381,7 +381,7 @@ Question 3
 Question 4      2/4
                 The break even analysis assumes that costs do not change over time.
 
-Total Score 
+Total Score 14/18 Grade 5
 
 ## Elisa Abou-Rjeili
 
@@ -510,7 +510,7 @@ Question 4     4/4
 
 Total Score 16/20 Grade 6
 
-## Yaroslav Craig
+## Yaroslav Campion
 
 Question 1
 
