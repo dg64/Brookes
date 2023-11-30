@@ -192,3 +192,441 @@ Question 3
 Question 4      4/4
 
 Total Score 8/20 Grade 3
+
+## Prokok Ondrejka
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       2/4
+                You made a mistake in the calculation of the fixed costs
+
+        b       1/2
+                the formula is correct, the result is not, because of the previous error
+
+        c       2/2
+
+Question 3
+
+        a       0/2
+                You made a mistake in the calculation of the fixed cost and you made
+                the calculation for only one match, not for 18
+
+        b       0/2
+                You made a mistake in the calculation of the fixed cost and you made
+                the calculation for only one match, not for 18
+
+Question 4      2/4
+                You can calculate the break-even analysis for different products
+                if you use the total contribution
+
+Total Score 11/20 Grade 4
+
+
+## Juhyeon Jeon
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       0/4
+                The calculation is incorrect
+
+        b       0/2
+                The calculation is incorrect
+
+        c       2/2
+
+Question 3
+
+        a       0/2
+                You made a mistake in the calculation of the fixed costs
+                You did not count that each match as an additation million of extra cost
+                You did not make the calculation for 18 matches
+ 
+        b       0/2
+                You made a mistake in the calculation of the fixed costs
+                You did not count that each match as an additation million of extra cost
+                You did not make the calculation for 18 matches
+
+Question 4      2/4
+                Break-even assumes that the trend of costs is linear, while in reality it is not.
+
+Total Score  8/20 Grade 3
+
+## Julie Sim
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       2/4
+                You did not take into account the 1.000.000 of extra cost for each match
+
+        b       0/2
+                The margin of safety is a quantity, not an amount
+
+        c       2/2
+
+Question 3
+
+        a       1/2
+                You did not take into account the 1.000.000 of extra cost for each match
+
+        b       1/2
+                You did not take into account the 1.000.000 of extra cost for each match
+
+Question 4      0/4
+                The analysis assumes a linear trend of costs and does not take into the account
+                the stock
+
+Total Score 10/20 Grade 4
+
+## Arsenii Tsvetkov
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       2/4
+                You did not take into account the 1.000.000 of extra cost for each match
+
+        b       0/2
+                The margin of safety is a quantity, not an amount
+
+        c       2/2
+
+Question 3
+
+        a       1/2
+                You did not take into account the variable costs
+
+        b       1/2
+                You did not take into account the variable costs
+
+Question 4      2/4
+                The competitors are irrelevant in this analysis.
+                The break even analysis assumes that costs do not change over time.
+
+Total Score 12/20 grade 4
+
+## Maximilian Lang
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       4/4
+                Correct!
+
+        b       2/2
+
+        c       2/2
+
+Question 3
+
+        a       1/2
+                You did not take into account the variable costs
+
+        b       1/2
+                You did not take into account the variable costs
+
+Question 4      4/4
+
+Total Score 18/20 Grade 6
+
+## Aleksandra Zhelezovskaya
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       4/4
+
+        b       2/2
+
+Question 3
+
+        a       1/2
+                You counted the extra cost for a match only one instead of 18
+
+        b       1/2
+                You counted the extra cost for a match only one instead of 18
+
+Question 4      2/4
+                The break even analysis assumes that costs do not change over time.
+
+Total Score 
+
+## Elisa Abou-Rjeili
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       4/4
+                Correct!
+
+        b       2/2
+                Correct!
+
+        c       2/2
+                Correct!
+
+Question 3
+
+        a       1/2
+                You counted the extra cost for a match only one instead of 18
+
+        b       1/2
+                You counted the extra cost for a match only one instead of 18
+
+Question 4      4/4
+
+Total Score 18/20 Grade 6
+
+## Christos Paraschos
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       2/4
+                You made a mistake in the calculation of the fixed costs
+
+        b       1/2
+                the formula is correct, the result is not, because of the previous error
+
+        c       2/2
+
+Question 3
+
+        a       0/2
+                The 80% was referring to the total numbe of tickets sold
+
+        b       0/2
+                The 80% was referring to the total numbe of tickets sold
+
+
+Question 4      0/4
+                The analysis assumes a linear trend of costs and does not take into the account
+                the stock
+
+Total Score 9/20 Grade 3
+
+## Mirel Luts
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       2/4
+                You made a mistake in the calculation of the fixed costs
+
+        b       1/2
+                the formula is correct, the result is not, because of the previous error
+
+Question 3
+
+        a       1/2
+                You counted the extra cost for a match only one instead of 18
+
+        b       1/2
+                You counted the extra cost for a match only one instead of 18
+        
+Question 4      0/4
+                The analysis assumes a linear trend of costs and does not take into the account
+                the stock
+
+Total Score 9/18 Grade 4
+
+## Afsaneh Afdjei
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       4/4
+                Correct!
+
+        b       2/2
+                Correct!
+
+        c       2/2
+                Correct
+
+Question 3
+
+        a       0/2
+                You did not count the extra cost for a match and you made the calculation
+                for one match only
+
+        b       0/2
+                You did not count the extra cost for a match and you made the calculation
+                for one match only
+
+Question 4     4/4
+
+Total Score 16/20 Grade 6
+
+## Yaroslav Craig
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       4/4
+                Correct
+
+        b       0/2
+                BE is a quantity
+
+        c       0/2
+
+Question 3
+
+        a       1/2
+                The 18.000.000 needed to be subtracted
+
+        b       1/2
+                The 18.000.000 needed to be subtracted
+
+Question 4      4/4
+
+Total Score 14/20 Grade 5
+
+## Abdullah Asif
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       2/4
+                You made a mistake in the calculation of the fixed costs
+
+        b       1/2
+                the formula is correct, the result is not, because of the previous error
+               
+        c       2/2
+
+Question 3
+
+        a       1/2
+                You did not take into account the 1.000.000 of extra cost for each match
+
+        b       1/2
+                You did not take into account the 1.000.000 of extra cost for each match
+
+Question 4      2/4
+                Break Even assumes that costs do not change in time
+
+Total Score 13/20 Grade 5
+
+## Danil Konoplev
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       2/4
+                You did not take into account the fixed costs
+
+        b       1/2
+                This error comes from the previous one
+
+        c       2/2
+
+Question 3
+
+        a       1/2
+                You did not take into account the 1.000.000 of extra cost for each match
+
+        b       1/2
+                You did not take into account the 1.000.000 of extra cost for each match
+
+Question 4      0/4
+                The analysis assumes a linear trend of costs and does not take into the account
+                the stock
+
+Total Score 11/20 Grade 4
+
+## Kristina Varlamova
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       0/4
+                You used the wrong formula
+
+        b       0/2
+                This resul is wrong because of the previous one
+
+Question 3
+
+        a       0/2
+                You added the fixed costs instead of subtracting them
+
+        b       0/2
+                You added the fixed costs instead of subtracting them
+
+Question 4      4/4
+
+Total Score 8/20 Grade 3
