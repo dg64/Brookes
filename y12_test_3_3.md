@@ -630,3 +630,315 @@ Question 3
 Question 4      4/4
 
 Total Score 8/20 Grade 3
+
+
+## Sofiya Balian
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       0/4
+                Next time I see something like this I will consider failed the entire test
+
+        a       0/2
+
+        c       0/2
+
+Question 3  
+
+        a       0/2
+
+        b       0/2
+
+Question 4      0/4
+
+Total Score 4/20 Grade 1
+
+## Ekaterina Rychkova
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       0/4
+                Care to explain how did you get the right result with the wrong calculation?
+
+        b       0/2
+                Incorrect
+
+        c       0/2
+                Not answered
+
+Question 3
+
+        a       0/2
+                Incorrect
+
+        b       0/2
+                Incorrect
+
+Question 4      0/4
+                Not answered
+
+Total Score 4/20 Grade 1
+
+## Dzhamal
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       0/4
+                Incorrect
+
+        b       0/2
+                Not answered
+
+        c       0/2
+                Not answsered
+
+Quesiton 3
+
+        a       0/2
+                Incorrect
+
+        b       0/2
+                Incorrect
+
+Question 4      0/4
+                Not answered
+
+Total score 4/20 Grade 1
+
+## Alexei Chernoy
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       0/4
+                The result is correct, the formula and the calculation is wrong.
+                Care to explain?
+
+        b       0/2
+                Not answered
+
+        c       0/2
+                Not answered
+
+Question 3
+
+        a       0/2
+                Not answered
+
+        b       0/2
+                Not answered
+
+Question 4      0/4
+                Not answered
+
+Total Score 4/20 Grade 1
+
+## Rufina Zachareva
+
+Question 1
+
+        a       2/2
+
+        b       0/2
+                costs that vary according to sales or production
+
+Quesiton 2
+
+        a       0/4
+                Not answered
+
+        b       0/2
+                Not answered
+
+Question 3
+
+        a       0/2
+                Not answered
+
+        b       0/2
+                Not answered
+
+Question 4      2/4
+                The trend of cost is not linear
+
+Total Score 4/18 Grade 2
+
+## Anna Kovaleva
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       0/4
+                Not answered
+
+        b       0/2
+                Not answered
+
+        c       0/2
+                Not answered
+
+Question 3
+
+        a       0/2
+                Not answered
+
+        b       0/2
+                Not answered
+
+Question 4      0/4
+                Not answered
+
+Total Score 4/20 Grade 1
+
+## Arina Chukhno
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       0/4
+                Incorrect
+
+        b       0/2
+                Incorrect
+
+        c       0/2
+                Not answered
+
+Question 3
+
+        a       0/2
+                Incorrect
+
+        b       0/2
+                Incorrect
+
+Question 4      2/4
+                The trend of costs is not linear
+
+Total Score 6/20 Grade 2
+
+## Ani Goel
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       0/4
+                Not answered
+
+        b       0/2
+                Not answered
+
+Question 3
+
+        a       0/2
+                You did not consider the extra cost of 1M per match and the fact
+                that you had to make the calculation for 18 matches
+
+        b       0/2
+                You did not consider the extra cost of 1M per match and the fact
+                that you had to make the calculation for 18 matches
+
+Question 4      4/4
+
+Total Score 8/18 Grade 3
+
+## Aleksandr Kazantcev
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       0/4
+                Not answered
+
+        b       0/2
+                Not answered
+
+Question 3
+
+        a       0/2
+                You did not calculate the fixed costs and you did not take into
+                account the extra 1M of cost for each match
+
+        b       0/2
+                You did not calculate the fixed costs and you did not take into
+                account the extra 1M of cost for each match
+
+Question 4      2/4
+                It assumes that everything that you prodce, is sold
+
+Total Score 6/18 Grade 2
+
+## Alika Urmyeva
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       4/4
+                How did you get the correct result?
+
+        b       0/2
+                The BE is quantity, not an amount
+
+        c       0/2
+                Incorrect
+
+Question 3
+
+        a       0/2
+                Incorrect
+
+        b       0/2
+                Incorrect
+
+Question 4      2/4
+                It assumes that costs have a persisten trend and do not change
+
+Total Score 10/20 Grade 4
