@@ -13,7 +13,8 @@ Question 3      10/10
 
 Total Score 10/20 Grade 3
 
-Ekaterina Rychkova
+## Ekaterina Rychkova
+### Test 1.5 Download the test and update excel
 
 
 Question 1      2/2
@@ -34,7 +35,7 @@ Question 5      3/6
 Total Score 15/20 Grade 5
 
 ## Ana Brkic
-### Test 3.3
+### Test 3.3 Download the test and update excel
 
 Question 1
 
@@ -66,4 +67,18 @@ Question 4      4/4
                 
 
 Total Score 8/20  Grade 3
+
+## Rychkova Ekaterina
+### Test 1.3 - Download the test from the email and update excel
+
+Question 1      2/2
+
+Question 2      4/4
+
+Question 3      4/4
+
+Question 4      5/10
+                Theoretical answer
+
+Total Score 15/20 Grade 5
 
