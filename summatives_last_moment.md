@@ -30,3 +30,37 @@ Question 5      3/6
                 exchage rate is move favourable to them.
 
 Total Score 15/20 Grade 5
+
+Ana Brkic
+
+Question 1
+
+        a       2/2
+
+        b       2/2
+
+Question 2
+
+        a       0/4
+                You did not take into account the extra million for each match
+
+        b       0/2
+                The BE is not an amount, is a quantity
+
+        c       0/2
+                No answer
+
+Question 3  
+
+        a       0/2
+                Incorrect calcualtion
+
+        b       0/2
+                Incorrect calculation
+
+Question 4      4/4
+                Remember that this is Business Management and not Economics
+                
+
+Total Score 8/20  Grade 3
+
