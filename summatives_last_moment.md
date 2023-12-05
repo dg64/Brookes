@@ -17,7 +17,7 @@ Total Score 10/20 Grade 3
 ### Test 1.5 Download the test and update excel
 
 
-Question 1      2/2
+
 
 Question 2      2/4
                 You were supposed to calulate the total profit, the profit for a single jeans
