@@ -17,7 +17,7 @@ P5 - Y12 - G3
 P2 - Y12 - G6
 P3 - Y12 - G6
 P5 - Y12 - G3
-P4 - Y12 - G3
+P6 - Y12 - G3
 
 ## Thursday
 
