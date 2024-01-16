@@ -16,5 +16,5 @@ Question 4      2/4
 Question 5      0/6
                 Not answered
 
-Total Score     6/20 Score 
+Total Score     6/20 Score  2
 
