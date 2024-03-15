@@ -29,3 +29,4 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ve
 
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiZ74So9vWEAxWQEBAIHQ4YAo0QFnoECB4QAQ&url=https%3A%2F%2Fwww.ukessays.com%2Fessays%2Fmanagement%2Fstaff-motivation-in-barkleys-management-essay.php&usg=AOvVaw2TlJJZyIpG950kfjHX-QEk&opi=89978449
 
+https://www.bloomberg.com/news/articles/2023-06-12/barclays-ceo-sees-banker-exodus-stemming-from-business-refocus
