@@ -14,9 +14,9 @@
 18/03/2924 Daniel      I.A. Economics          
 22/03/2024 Daniel      I.A. Maths              
 19/03/2024 Daniel      I.A. ESS                
-18/03/2024 Chae        I.A. Biology            
-18/03/2024 Parisa      I.A. Biology            
-18/03/2024 Max         I.A. Chemistry          
+18/03/2024 Chae        I.A. Biology            postponed to 19/03/2024
+18/03/2024 Parisa      I.A. Biology            postponed to 19/03/2024           
+18/03/2024 Max         I.A. Chemistry          waiting for final feedback
 19/03/2024 Max         I.A. Computer Science   
 19/03/2024 Ana         I.A. Biology            
 20/03/2024 Ana         I.A. Maths              
