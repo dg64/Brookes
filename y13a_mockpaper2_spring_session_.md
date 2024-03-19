@@ -223,10 +223,9 @@ Total Score     45/50 Grade 6
                 With price elasticity, a percentual decrease of price is matched
                 by a greater percentual of increase in revenue
 
-        d       0/10
-                Not answered
+        d       10/10
 
-Total Score     31/50 Grade 4
+Total Score     41/50 Grade 6
 
 ## Matvey
 
@@ -429,10 +428,14 @@ Total Score     10/50 Grade 1
                 With price elasticity, a percentual decrease of price is matched
                 by a greater percentual of increase in revenue
 
-        d       0/10
-                Not answered
+        d       5/10
+                You were required to write an advantage and one disadvantage for
+                each initiative; I even stressed this aspect during the mock exam.
+                Moreover, beside your incorrect understanding of price sensitivity,
+                you ignored all the other stimulus material provided for your
+                analysis.
 
-Total Score     13/50 Grade 2 
+Total Score     18/50 Grade 3 
 
 ## Andzhelina
 
