@@ -384,7 +384,7 @@ Question 1 Roscas
 
             i   2/2
 
-            ii  0/2
+            ii  2/2
                 (((600 + 650 + 670 + 700 + 710) - 2000)/5)/2000 = 13.3%
 
 Question 2  LLC
@@ -418,7 +418,7 @@ Question 3  SP
         c       0/2
                 Not answered
 
-Total Section A 9/30
+Total Section A 11/30
 
 ### Section B
 
@@ -436,7 +436,7 @@ Question 4  Bandit & Max
         
 Total Section B 16/20
 
-Total Score 25/50 Grade 4
+Total Score 27/50 Grade 4
 
 ## Daria Abhu 
 
@@ -721,13 +721,13 @@ Question 3  SP
             i   0/2
                 Revise the break-even analysis
 
-            ii  0/2
+            ii  2/2
 
-            iii 0/2
+            iii 2/2
 
         c       1/2
 
-Total Section A 17/30
+Total Section A 21/30
 
 ### Section B
 
@@ -748,7 +748,7 @@ Question 4  Bandit & Max
         
 Total Section B 7/20
 
-Total Score 24/50 Grade 3
+Total Score 28/50 Grade 4
 
 ## Alice
 
