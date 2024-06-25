@@ -1,0 +1,15 @@
+sed '/Service/d' covers_250620223.tsv >covers_25062023.csv  
+
+
+sed '1d' filename
+sed '/Service/d' covers_250620223.tsv >covers_25062023.csv  
+
+cut -d$'\t' -f1-8 covers_250620223.tsv >covers_25062023.tsv8
+cut -d$'\t' -f1,2,3,4,5,6,7,8 covers_250620223.tsv
+cut -d; -f1,2,3,4,5,6,7,8 covers_250620223.tsv
+
+
+sed '1d' input.csv >step1.csv
+sed '/Service/d' step1.csv >step2.csv
+cut -d, -f1,2,3,4,5,6,8 step2.csv >step3.csv
+sed '1d' step3.csv >step4.csv
