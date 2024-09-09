@@ -1,4 +1,4 @@
-# Test 5.4 - Y13/B
+# Test 5.4 - Y13B
 
 Anastasia
 
