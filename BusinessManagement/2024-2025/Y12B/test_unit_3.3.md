@@ -15,13 +15,13 @@ Question 4      4/4
 
 Question 5      2/2
 
-Question 6      2/4
+Question 6      4/4
                 How can you justify as logical a choice that brings to
                 less profit???? The increase in demand is due to the
                 lower price, but actually the total revenue decreases
                 You know this from Economics!
 
-Total Score     15/20 Grade 5
+Total Score     17/20 Grade 6
 
 ## Ilya
 
