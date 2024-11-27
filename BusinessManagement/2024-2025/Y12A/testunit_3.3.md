@@ -91,3 +91,62 @@ Question 5      2/2
 Question 6      4/4
 
 Total Score     19/20 Grade 7
+
+## Rustam
+
+Question 1      2/2
+
+Question 2      0/2
+                500 - 200 = 300
+
+Question 3      3/6
+                The chart is not on scale and is incorrect
+
+Question 4      4/4
+
+Question 5       1/2
+                Same as above
+
+Question 6      0/6
+                Incorrect analysis. The increase in price lead to 
+                a lover profit
+
+Total Score     10/20 Grade 4
+
+## Ram
+
+Question 1      2/2
+
+Question 2      0/2
+                500 - 200 = 300
+
+Question 3      6/6
+
+Question 4      4/4
+
+Question 5      0/2
+                Where are the other curves?
+
+Question 6      4/4
+
+Total Score     16/20 Grade 6
+
+## Aliciah
+
+Question 1      2/2
+
+Question 2      2/2
+
+Question 3      3/6
+                Chart incorrect, not TC curve, incorrect BE
+
+Question 4      4/4
+
+Question 5      0/2
+                No answer
+
+Question 6      0/4
+                No answer
+
+Total Score     11/20 Grade 4
+
