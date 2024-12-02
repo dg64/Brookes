@@ -150,3 +150,24 @@ Question 6      0/4
 
 Total Score     11/20 Grade 4
 
+# Sofia
+
+Question 1      2/2
+
+Question 2      2/2
+
+Question 3      0/4
+                The company is more near to the point of loosing money
+
+Question 4      1/6 
+                For 6 points you were required to write more than one line.
+                A delay means very likely an increase in cost and a decrease
+                in contribution per unit. An excessive delay can lead also
+                to customer cancelling the sale.
+
+Question 5      2/6
+                Capital has nothing to do with Break-Even.
+                Economies of scale is not an external factor, and you did not
+                explain how this can affect the analysis
+
+Total Score     7/20 Grade 2
