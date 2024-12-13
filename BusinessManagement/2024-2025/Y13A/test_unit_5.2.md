@@ -203,4 +203,17 @@ Question 4      3/10
 
 Total Score     5/20 Grade 2
 
+## Lilly
 
+Question 1      2/2
+
+Question 2      4/4
+
+Question 3      2/4
+                Revise cell-manufacturing
+
+Question 4      6/10
+                Revise cell manufacturing.
+                No motivational theories referenced.
+
+Total Score     14/20 Grade 4
