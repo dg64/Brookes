@@ -116,4 +116,19 @@ Question 6      1/4
 
 Total Score     16/20 Grade 6
 
+## Milad
+
+Question 1      2/2
+
+Question 2      0/2
+                Incorrect calculation
+
+Question 3      4/4
+
+Question 5      6/6
+
+Question 6      2/6
+                Insufficient answer.
+
+Total Score     14/20 Grade 5
 
