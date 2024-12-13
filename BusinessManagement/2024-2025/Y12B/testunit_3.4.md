@@ -57,3 +57,12 @@ Question 3      5/8
 
 Total Score     10/20 Grade 4
 
+## Viktor
+
+Question 1      8/8
+
+Question 2      4/4
+
+Question 3      8/8
+
+Total Score     20/20 Grade 7
