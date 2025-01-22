@@ -132,3 +132,36 @@ Question 6      2/6
 
 Total Score     14/20 Grade 5
 
+## Matthew
+
+Question 1      0/2
+                Incorrect answer. 
+                (3000 / (20-5)) = 200
+
+Question 2      0/2
+                Incorrect answer. 
+                500 - 200 = 300
+
+Question 3      0/6
+                The chart is not in scale
+                The BE point is marked at 600, not even at the erroneous 350
+                calculated by you
+                The VC curve and the TC curve are not parallel
+
+Question 4      4
+                Incorrect calculation
+                (4000 / (17 - 5)) = 333.33
+
+Question 5      0/2
+                Same problem as the previous chart
+
+Question 6      0/4
+                No because the decision of lowering the price in a location with
+                higher fixed cost raised the BE from 200 to 333, while the increment
+                in customer was only from 500 to 520; morevover the margin of safety
+                decreased from 300 to 187.
+
+                You did not prepare yourself for this test.
+
+Total Score     2/20 Grade 1
+
