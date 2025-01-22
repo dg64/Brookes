@@ -196,3 +196,18 @@ Question 4      7/10
                 situational leadership style
 
 Total Score     17/20 Grade 6
+
+## Mirel
+
+Question 1      2/2
+
+Question 2      4/4
+
+Question 3      4/4
+
+Quesiton 4      8/10
+                A principal is not necessarily a leader. Leadership is referring
+                to personal features. Any person in a company can be a leader
+                without being a manager.
+
+Total Score     18/20 Grade 6
