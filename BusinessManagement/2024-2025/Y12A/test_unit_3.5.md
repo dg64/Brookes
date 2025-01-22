@@ -208,3 +208,32 @@ Question 8      2/4
 
 Total Score     14/30 Grade 3
 
+## Anna
+
+Question 1      2/2
+
+Question 2      4/4
+                The ratios for two years have no sense
+
+Question 3      1/4
+                Increase price is a poor answer.
+                Decrease COGS is something that they have already done for 
+                the NPM
+                Cut salaries is highly unadvisable.
+                When you mention "reduce overheads" you must be more specific
+
+Question 4      0/2
+                No Answer
+
+Question 5      2/2
+
+Question 6      0/6
+                No answer
+
+Question 7      4/4
+
+Question 8      0/4
+                Your analysis is incorrect
+
+Total Score     13/30 Grade 3
+                
