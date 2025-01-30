@@ -111,3 +111,17 @@ Question 4      10/10
 
 Total Score     20/20 Grade 7
 
+## Alice
+
+Question 1      2/2
+
+Question 2      4/4
+
+Question 3      2/4
+                State of the art IT system
+
+Question 4      7/10
+                Your understanding of JIT is not 100% correct.
+                Revise the topic.
+
+Total Score     15/20 Grade 5
