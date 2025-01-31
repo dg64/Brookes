@@ -175,3 +175,28 @@ Question 10     7/10
                 custom advertising, product creation, dynamic pricing.
 
 Total Score     27/36 Grade 5
+
+## Arina
+
+Question 1      2/2
+
+Question 2      4/4
+
+Question 3      4/4
+
+Question 4      1/4
+                Physical, not virtual
+
+Question 5      2/2
+
+Question 6      4/4
+
+Question 7      2/2
+
+Question 8      4/4
+
+Question 9      2/2
+
+Question 10     10/10
+
+Total Score     35/36 Grade 7
