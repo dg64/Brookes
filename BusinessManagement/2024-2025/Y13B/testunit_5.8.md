@@ -1,4 +1,4 @@
-# TestUnit 5.8
+# Test Unit 5.8
 
 ## Prokop
 
@@ -304,3 +304,35 @@ Question 10     8/10
                 I am missing the link between AI and increased revenue
 
 Total Score     26/36 Grade 5
+
+## Katarina
+
+Question 1      0/2
+                Value, Variety, Volume, Velocity
+
+Question 2      4/4
+
+Question 3      4/4
+
+Question 4      2/2
+
+Question 5      0/2
+                You described data mining, not data analytics
+
+Question 6      0/4
+                what is the difference with big data then?
+                you gave the exact same answer
+
+Question 7      2/2
+
+Question 8      4/4
+
+Question 9      2/2
+
+Question 10     5/10
+                You mixed I.A. with Virtual Reality.
+                To have 24/7 availability it is enough to have an online shop;
+                you do not need A.I. for this.
+                You do not need expensive IT personnel if you use cloud services
+
+Total Score     23/36 Grade 4
