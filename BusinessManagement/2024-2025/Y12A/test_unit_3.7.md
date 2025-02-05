@@ -107,3 +107,18 @@ Question 4      3/6
                 Theoretical answer
 
 Total Score     14/20 Grade 5
+
+## Emily
+
+Question 1      2/2
+
+Question 2      4/4
+
+Question 3      4/8
+                You made a mistake in the InFlows and Outflows section
+
+Quesiton 4      4/6
+                What assets can possibly sell a business that delivers
+                dance courses?
+
+Total Score     14/20 Grade 5
