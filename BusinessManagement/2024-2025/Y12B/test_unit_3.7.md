@@ -77,3 +77,19 @@ Question 4      4/6
                 Increase in credit??
 
 Total Score     18/20 Grade 6
+
+## Milad 
+
+Question 1      2/2
+
+Question 2      0/4
+                Poor credit control, lack of planning, unforeseen event
+
+Question 3      6/8
+                There are not totals 
+
+Question 4      3/6
+                Theoretical answer
+
+Total Score     11/20 Grade 4
+
