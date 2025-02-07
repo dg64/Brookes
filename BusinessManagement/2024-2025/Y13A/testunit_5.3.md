@@ -131,4 +131,21 @@ Question 4      5/10
 
 Total Score     13/20 Grade 5
 
+## Lilly
 
+Question 1      0/2
+                You described Quality Assurance
+
+Question 2      2/4
+                I accept only quicker as a reason.
+
+Question 3      2/4
+                They are not lamenting slow output; they are lamenting
+                lack of flexibility, lack of communication, waste of time
+
+Question 4      5/10
+                There is not mention of TQM, Quality Assurance or motivational
+                theories. TQM and QM could be implemented without the purchase
+                of new equipment.
+
+Total Score     9/20 Grade 3
