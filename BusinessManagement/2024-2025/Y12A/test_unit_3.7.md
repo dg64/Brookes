@@ -123,19 +123,16 @@ Quesiton 4      4/6
 
 Total Score     14/20 Grade 5
 
-## Milad
+## Aleksandra
 
 Question 1      2/2
 
-Question 2      0/4
-                Poor credit control, lack of planning, unforeseen event
+Question 2      4/4
 
 Question 3      6/8
-                There are not totals 
+                You made two mistakes in calculation, one in the Inflows section
+                and the other in the Net Section
 
-Question 4      3/6
-                Theoretical answer
+Question 4      6/6
 
-Total Score     11/20 Grade 4
-
-
+Total Score     18/20 Grade 6
