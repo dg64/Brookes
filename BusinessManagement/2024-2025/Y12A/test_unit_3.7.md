@@ -122,3 +122,20 @@ Quesiton 4      4/6
                 dance courses?
 
 Total Score     14/20 Grade 5
+
+## Milad
+
+Question 1      2/2
+
+Question 2      0/4
+                Poor credit control, lack of planning, unforeseen event
+
+Question 3      6/8
+                There are not totals 
+
+Question 4      3/6
+                Theoretical answer
+
+Total Score     11/20 Grade 4
+
+
