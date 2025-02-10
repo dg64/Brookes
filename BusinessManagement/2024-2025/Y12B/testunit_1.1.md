@@ -148,3 +148,31 @@ Question 4      3/10
                 Never use bullet points in a answer worth 10 points.
 
 Total Score     7/10 20 Grade 2
+
+## Vladislava
+
+Question 1      2/2
+
+Question 2      0/4
+                You missed the point; you were required to apply the 4 factors of production
+                to the specific content:
+                Land: your room
+                Capital: your computer
+                Labour: you
+                Enterprise: you
+
+Question 3      4/4
+
+Question 4      5/10
+                For a 10 point questions you need to write a mini essay with:
+                Introduction
+                Body
+                Conclusion
+                In the body you must provide 2 advantages and 2 disadvantages;
+                you must reference the stimulus material provided in the case study and
+                the answer must be in context. A theorital answer, without any practical
+                application, will loose 50% of its score.
+
+Total Score     11/20 Grade 4
+
+
