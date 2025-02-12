@@ -93,3 +93,20 @@ Question 4      3/6
 
 Total Score     11/20 Grade 4
 
+## Prince
+
+Question 1      2/2
+
+Question 2      2/4
+                I can accept only rapid expansion
+
+Question 3      4/8 
+                You made a mistake in the net section.
+                The Cash Flow Forecast was supposed to start from April
+                The net cash flow is incorrect
+
+Question 4      3/6
+                Your answer is theoretical. What inventory can sell a
+                business that provides courses of dancing?
+
+Total Score     11/20 Grade 4
