@@ -194,3 +194,17 @@ Question 4      7/10
                 cellular manufacturing is not about customization
 
 Total Score     15/20 Grade 5
+
+## Afsaneh
+
+Question 1      2/2
+
+Question 2      4/4
+
+Question 3      4/4
+
+Question 4      7/10
+                No notivational theories mentioned
+                No job enrichment, no job rotation
+
+Total Score     17/20 Grade 6
