@@ -60,3 +60,13 @@ Question 2      4/10
                 The analysis is partially consistent with your calculation
 
 Total Score     4/12 Grade 3
+
+## Farah
+
+Question 1      2/2
+
+Question 2      4/10
+                Mistakes in Payback period of Project France (2 years and 12 months??)
+                in the ARR of Project England; incorrect calculation of NPV
+
+Total Score     6/12 Grade 4
