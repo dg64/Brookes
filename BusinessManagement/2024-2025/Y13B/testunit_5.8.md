@@ -336,3 +336,28 @@ Question 10     5/10
                 You do not need expensive IT personnel if you use cloud services
 
 Total Score     23/36 Grade 4
+
+## Afsaneh
+
+Question 1      2/2
+
+Question 2      4/4
+
+Question 3      2/4
+                Do not mix virtual reality with A.I.
+
+Question 4      2/2
+
+Question 5      2/2
+
+Question 6      4/4
+
+Question 7      2/2
+
+Question 8      4/4
+
+Question 9      2/2
+
+Question 10     10/10
+
+Total Score     34/36 Grade 7
