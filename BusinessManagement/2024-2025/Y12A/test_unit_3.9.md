@@ -40,3 +40,15 @@ Question 3      5/5
 
 Total Score    9/9 Grade 7
 
+## Emily
+
+Question 1      1/2
+                you made a mistake in the calculation of direct cost
+
+Question 2      2/2
+
+Question 3      5/5
+
+Total Score     8/9 Grade 6
+
+
