@@ -49,7 +49,7 @@ Amir closes this term with an attendance of 86.49%; this is an improvement if co
 
 ## Nazarov Daniil
 
-Daniil closes this term with an attendance of 97.30%. During this term, Daniil has been consistent in his punctuality and in his morning routine; it is still hard to get him detached from his laptop for seeing him reading a book. From the academic point of view, Daniil is inconsistent in his performances; he does well in Russian, Chemistry and Digital Design, while he struggles with Math and I&S. Unfortunately, Beside this point of improvement, Daniil was involved in an accident related to academic honesty and I hope he learnt from that mistake and he will not look for an easy fix in the future.
+Daniil closes this term with an attendance of 97.30%. During this term, Daniil has been consistent in his punctuality and in his morning routine; it is still hard to get him detached from his laptop for seeing him reading a book. From the academic point of view, Daniil is inconsistent in his performances; he does well in Russian, Chemistry and Digital Design, while he struggles with Math, I&S and Spanish. Unfortunately, Beside this point of improvement, Daniil was involved in an accident related to academic honesty and I hope he learnt from that mistake and he will not look for an easy fix in the future.
 
 ## Colonna Michelangelo
 
