@@ -341,3 +341,76 @@ Section B
 
 Total Score	33/50 Grade 5
 
+## Daria
+
+Section A
+
+1. EcoHome Products LTD
+
+	a)		    2/2
+
+	b)
+
+		i)	    0/2
+                EcoCleaner 300.000 - 120.000 - 60.000 = 120.000
+                EcoWipes 500.000 - 150.000 - 200.000 = 150.000
+
+		ii)	    0/4
+                120.000 + 150.000 - 60.000 = 210.000 Profit
+
+	c)		    0/2
+                it considers only variable costs 
+
+2. Smart Gadgets Ltd
+
+	a)		    2/2
+
+	b)
+
+		i)	    2/2
+
+		ii)	    2/2
+
+		iii)	0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+	c)		    0/2
+                training or better equipment.
+                increasing labour productivit means that the number of workers does not change
+                while their output increases
+
+3. Eco Brewery Ltd
+
+	a)		    0/2
+                current assets - current liabilities
+
+	b)
+
+		i)	    1/1
+
+		ii)	    1/1
+
+		iii)	1/1
+
+		iv)	    1/1
+
+		v)	    2/2
+
+	c)		    0/2
+                less cash tied into stock
+
+Section B
+
+5. Agro Drones Ltd
+
+	a)		    2/2
+
+	b)		    4/4
+
+	c)		    4/4
+
+	d)		    6/10
+                There is no one single reference to the stimulus material
+
+Total Score	30/50 Grade 4
