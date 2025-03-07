@@ -695,3 +695,387 @@ Section B
                 No one single stimulus has been considered
 
 Total Score	25/50 Grade 4
+
+## Igor
+
+Section A
+
+1. EcoHome Products LTD
+
+	a)		    2/2
+
+	b)
+
+		i)	    0/2
+                EcoCleaner 300.000 - 120.000 - 60.000 = 120.000
+                EcoWipes 500.000 - 150.000 - 200.000 = 150.000
+
+		ii)	    4/4
+
+	c)		    2/2
+
+2. Smart Gadgets Ltd
+
+	a)		    2/2
+
+	b)
+
+		i)	    2/2
+
+		ii)	    0/2
+                70.000 / 200 = 350
+
+		iii)	0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+	c)		    0/2
+i               equipment and or training
+
+3. Eco Brewery Ltd
+
+	a)		    0/2
+i               current assets - current liabilities
+
+	b)
+
+		i)	    0/1
+                1.500.000 / 300.000 = 5
+
+		ii)	    1/1
+                you need to write the decimals
+
+		iii)	1/1
+                you need to write the decimals
+
+		iv)	    0/1
+                you calculated the debt to equity ratio
+
+		v)	    2/2
+
+	c)		    2/2
+
+Section B
+
+4. Smile Bags Ltd
+
+	a)		    2/2
+
+	b)		    2/4
+                a stand is above the line, not below 
+
+	c)		    4/4
+
+	d)		    7/10
+                You did not reference all the stimulus material
+
+Total Score	33/50 Grade 5
+
+## Alice
+
+Section A
+
+1. EcoHome Products LTD
+
+	a)		    0/2
+                ownned by private individual
+                legal entity, united or separated
+
+	b)
+
+		i)	    0/2
+                EcoCleaner 300.000 - 120.000 - 60.000 = 120.000
+                EcoWipes 500.000 - 150.000 - 200.000 = 150.000
+
+		ii)	    4/4
+
+	c)		    0/2
+                Does not consider fixed costs
+
+2. Smart Gadgets Ltd
+
+	a)		    0/2
+                any device connected to internet, e.g. home appliances
+
+	b)
+
+		i)	    2/2
+
+		ii)	    0/2
+                70.000 / 200 = 350
+
+		iii)	0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+	c)		    0/2
+                better equipment and/or training
+
+3. Eco Brewery Ltd
+
+	a)		    0/2
+                current assets - current liabilities
+
+	b)
+
+		i)	    1/1
+
+		ii)	    1/1
+
+		iii)	1/1
+
+		iv)	    0/1
+                400.000 / 800.000 + 400.000 = 33%
+
+		v)	    0/2
+                2.400.000 - 1.500.000 = 900.000
+
+	c)		    0/2
+                less cash tied into stock
+
+Section B
+
+5. Agro Drones Ltd
+
+    a)          0/2
+                A company that holds the highest share of sales in its market
+
+    b)          2/4
+                Very costly to implement
+
+    c)          0/4
+                it may bring to a discovery that can set apart the business from the competition
+                the outcome is not granted
+
+    d)          6/10
+                You referenced only one figure in the three table of stimulus material
+
+Total Score 17/50 Grade 2
+
+## Arsenii
+
+Section A
+
+1. EcoHome Products LTD
+
+    a)          2/2
+
+    b)
+
+        i)      2/2
+
+        ii)     0/4
+                EcoCleaner 300.000 - 120.000 - 60.000 = 120.000
+                EcoWipes 500.000 - 150.000 - 200.000 = 150.000
+
+    c)          2/2
+
+2. Smart Gadgets Ltd
+
+    a)          2/2
+
+    b)
+
+        i)      2/2
+
+        ii)     0/2
+                70.000 / 200 = 350
+
+        iii)    0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+    c)          0/2
+                equipment and / or training
+
+3. Eco Brewery Ltd
+
+    a)          0/2
+                current assets - current liabilities
+
+    b)
+
+        i)      1/1
+
+        ii)     1/1
+
+        iii)    1/1
+
+        iv)     0/1
+                33.3%
+
+        v)      2/2
+
+    c)          0/2
+                less cash tied into stock
+
+Section B
+
+4. Smile Bags Ltd
+
+    a)          0/2
+                company with the highest market share in its own market
+
+    b)          4/4
+
+    c)          4/4
+
+    d)          10/10
+
+Total Score 33/50 Grade 5
+
+## Arina
+
+Section A
+
+1. EcoHome Products LTD
+
+    a)          2/2
+
+    b)
+
+        i)      2/2
+
+        ii)     4/4
+
+    c)          0/2
+                does not consider fixed costs
+
+2. Smart Gadgets Ltd
+
+    a)          2/2
+
+    b)
+
+        i)      2/2
+
+        ii)     2/2
+
+        iii)    0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+    c)          0/2
+                equipment or training
+
+3. Eco Brewery Ltd
+
+    a)          0/2
+                current assets - current liabilities
+
+    b)
+
+        i)      1/1
+
+        ii)     1/1
+
+        iii)    1/1
+
+        iv)     1/1
+
+        v)      2/2
+
+    c)          2/2
+
+Section B
+
+5. Agro Drones Ltd
+
+    a)          2/2
+
+    b)          2/4
+                expensive to set up
+
+    c)          4/4
+
+    d)          8/10
+                you did not consider all the stimulus material
+
+Total Score 38/50 Grade 5
+
+## Katarina
+
+Section A
+
+1. EcoHome Products LTD
+
+    a)          2/2
+
+    b)
+
+        i)      0/2
+                EcoCleaner 300.000 - 120.000 - 60.000 = 120.000
+                EcoWipes 500.000 - 150.000 - 200.000 = 150.000
+
+        ii)     0/4
+                (120.000 + 150.000) - 60.000 = 210.000
+
+    c)          0/2
+                it does not consider fixed costs
+
+2. Smart Gadgets Ltd
+
+    a)          0/2
+                Ecosystem of devices attached to internet, e.g. home appliance
+
+    b)
+
+        i)      2/2
+
+        ii)     1/2
+                350
+
+        iii)    0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+    c)          0/2
+                equipment and / or training
+
+3. Eco Brewery Ltd
+
+    a)          0/2
+                current assets - current liabilities
+
+    b)
+
+        i)      0/1
+                1.500.000 / 300.000 = 5
+
+        ii)     1/1
+
+        iii)    0/1
+                (100.000 / 1.500.000 ) x 365 = 24,33
+
+        iv)     0/1
+                400.000 / 800.000 + 400.000 = 33%
+
+        v)      2/2
+
+    c)          0/2
+                less cash tied into stock
+
+Section B
+
+4. Smile Bags Ltd
+
+	a)		    2/2
+
+	b)		    2/4
+                you did not provide one disadvantage as requested in the question
+
+	c)		    2/4
+                R&D and market research are two different things. R&D is not carried out
+                to make market research
+
+	d)		    10/10
+                "on the other hand, the drawbacks include the benefits that AD provides for 
+                competitors that include them upholding information that AD gained from
+                data mining and using it for their own advantage".
+                I pretend I did not read this because the second drawback is a good one.
+                Do this during the exam and you will loose 5 points.
+
+Total Score	24/50 Grade 3
+
+
+
