@@ -1023,7 +1023,7 @@ Section A
         i)      2/2
 
         ii)     1/2
-                350
+                70.000 / 200 = 350
 
         iii)    0/2
                 Contribution / Contribution - FC
@@ -1077,5 +1077,530 @@ Section B
 
 Total Score	24/50 Grade 3
 
+## Anna
 
+Section A
 
+1. EcoHome Products LTD
+
+    a)          1/2
+                government are not part of privately held companies
+
+    b)
+
+        i)      2/2
+
+        ii)     0/4
+                120.000 + 150.000 - 60.000 = 210.000 Profit
+
+    c)          0/2
+                Does not consider fixed costs
+
+2. Smart Gadgets Ltd
+
+    a)          0/2
+                Ecosystem of devices attached to internet, e.g. home appliance
+
+    b)
+
+        i)      0/2
+                2.000 / 5.000 = 4%
+
+        ii)     0/2
+                70.000 / 200 = 350
+
+        iii)    0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+    c)          2/2
+
+3. Eco Brewery Ltd
+
+    a)          0/2
+                current assets - current liabilities
+
+    b)
+
+        i)      1/1
+
+        ii)     1/1
+
+        iii)    1/1
+
+        iv)     1/1
+
+        v)      0/2
+                2.400.000 - 1.500.000 = 900.000
+
+    c)          2/2
+
+Section B
+
+5. Agro Drones Ltd
+
+    a)          0/2
+                company with the highest market share in its own market
+
+    b)          4/4
+
+    c)          4/4
+
+    d)          8/10
+                The competitors are not benefitting from AD data, they benefit
+                from the risk attitude of AD.
+
+Total Score 27/50 Grade 4
+
+## Alika
+
+Section A
+
+1. EcoHome Products LTD
+
+    a)          2/2
+
+    b)
+
+        i)      2/2
+
+        ii)     4/4
+
+    c)          0/2
+                does not consider fixed costs
+
+2. Smart Gadgets Ltd
+
+    a)          0/2
+                Ecosystem of devices attached to internet, e.g. home appliance
+
+    b)
+
+        i)      0/2
+                2.000 / 5.000 = 4%
+
+        ii)     0/2
+                70.000 / 200 = 350
+
+        iii)    0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+    c)          2/2
+
+3. Eco Brewery Ltd
+
+    a)          0/2
+                current assets - current liabilities
+
+    b)
+
+        i)      1/1
+
+        ii)     1/1
+
+        iii)    1/1
+
+        iv)     1/1
+
+        v)      2/2
+
+    c)          2/2
+
+Section B
+
+5. Agro Drones Ltd
+
+	a)		    2/2
+
+	b)		    4/4
+
+	c)		    4/4
+
+	d)		    7/10
+                You mentioned only one stimulus material
+
+Total Score	35/50 Grade 5
+
+## Ana
+
+Section A
+
+1. EcoHome Products LTD
+
+    a)          2/2
+
+    b)
+
+        i)      0/2
+                EcoCleaner 300.000 - 120.000 - 60.000 = 120.000
+                EcoWipes 500.000 - 150.000 - 200.000 = 150.000
+
+        ii)     4/4
+
+    c)          0/2
+                does not consider fixed costs
+
+2. Smart Gadgets Ltd
+
+    a)          0/2
+                Ecosystem of devices attached to internet, e.g. home appliance
+
+    b)
+
+        i)      0/2
+                2.000 / 5.000 = 4%
+
+        ii)     0/2
+                70.000 / 200 = 350
+
+        iii)    0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+    c)          1/2
+                How?
+
+3. Eco Brewery Ltd
+
+    a)          0/2
+                current assets - current liabilities
+
+    b)
+
+        i)      0/1
+                1.500.000 / 300.000 = 5
+
+        ii)     1/1
+
+        iii)    1/1
+
+        iv)     0/1
+                400.000 / 800.000 + 400.000 = 33%
+
+        v)      2/2
+
+    c)          2/2
+
+Section B
+
+5. Agro Drones Ltd
+
+	a)		    2/2
+
+	b)		    4/4
+
+	c)		    4/4
+
+	d)		    7/10
+                You mentioned only one stimulus material
+
+Total Score	30/50 Grade  4
+
+## Dzhamal
+
+Section A
+
+1. EcoHome Products LTD
+
+    a)          1/2
+                owned by private individuals
+
+    b)
+
+        i)      2/2
+
+        ii)     0/4
+                120.000 + 150.000 - 60.000 = 210.000 Profit
+
+    c)          0/2
+                does not consider fixed costs
+
+2. Smart Gadgets Ltd
+
+    a)          0/2
+                Ecosystem of devices attached to internet, e.g. home appliance
+
+    b)
+
+        i)      2/2
+
+        ii)     0/2
+                70.000 / 200 = 350
+
+        iii)    0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+    c)          1/2
+                How?
+
+3. Eco Brewery Ltd
+
+    a)          0/2
+                current assets - current liabilities
+
+    b)
+
+        i)      0/1
+                1.500.000 / 300.000 = 5
+
+        ii)     1/1
+
+        iii)    1/1
+
+        iv)     0/1
+                400.000 / 800.000 + 400.000 = 33%
+
+        v)      0/2
+                2.400.000 - 1.500.000 = 900.000
+
+    c)          0/2
+                less cash tied into stock
+
+Section B
+
+5. Agro Drones Ltd
+
+	a)		    0/2
+                company with the highest market share in its own market
+
+	b)		    4/4
+
+	c)		    4/4
+
+	d)		    8/10
+                A.I. can not predict failures, but it can help to minimize them
+
+Total Score	24/50 Grade 3
+
+## Abdullah
+
+Section A
+
+1. EcoHome Products LTD
+
+    a)          1/2
+                owned by private individuals
+
+    b)
+
+        i)      0/2
+                EcoCleaner 300.000 - 120.000 - 60.000 = 120.000
+                EcoWipes 500.000 - 150.000 - 200.000 = 150.000
+
+        ii)     4/4
+
+    c)          0/2
+                does not consider fixed costs
+
+2. Smart Gadgets Ltd
+
+    a)          0/2
+                Ecosystem of devices attached to internet, e.g. home appliance
+
+    b)
+
+        i)      2/2
+
+        ii)     0/2
+                370.000 / 200 = 50
+
+        iii)    0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+    c)          2/2
+
+3. Eco Brewery Ltd
+
+    a)          2/2
+
+    b)
+
+        i)      0/1
+                1.500.000 / 300.000 = 5
+
+        ii)     1/1
+
+        iii)    0/1
+                (100.000 / 1.500.000 ) x 365 = 24,33
+
+        iv)     0/1
+                400.000 / 800.000 + 400.000 = 33%
+
+        v)      2/2
+
+    c)          2/2
+
+Section B
+
+5. Agro Drones Ltd
+
+	a)		    0/2
+                company with the highest market share in its own market
+
+	b)		    4/4
+
+	c)		    4/4
+
+	d)		    7/10
+                You mentioned only one stimulus material
+
+Total Score	31/50 Grade 4
+
+## Lilly
+
+Section A
+
+1. EcoHome Products LTD
+
+    a)          2/2
+
+    b)
+
+        i)      0/2
+                EcoCleaner 300.000 - 120.000 - 60.000 = 120.000
+                EcoWipes 500.000 - 150.000 - 200.000 = 150.000
+
+        ii)     0/4
+                120.000 + 150.000 - 60.000 = 210.000 Profit
+
+    c)          0/2
+                does not consider fixed costs
+
+2. Smart Gadgets Ltd
+
+    a)          0/2
+                Ecosystem of devices attached to internet, e.g. home appliance
+
+    b)
+
+        i)      0/2
+                2.000 / 5.000 = 4%
+
+        ii)     0/2
+                370.000 / 200 = 50
+
+        iii)    0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+    c)          2/2
+
+3. Eco Brewery Ltd
+
+    a)          0/2
+                current assets - current liabilities
+
+    b)
+
+        i)      1/1
+
+        ii)     1/1
+
+        iii)    1/1
+
+        iv)     0/1
+                400.000 / 800.000 + 400.000 = 33%
+
+        v)      2/2
+
+    c)          0/2
+                less cash tied into stock
+
+Section B
+
+5. Agro Drones Ltd
+
+	a)		    0/2
+                company with the highest market share in its own market
+
+	b)		    0/4
+                + automate task, find patterns
+                - costly
+
+	c)		    0/4
+                R&D is not meant to improve product quality; it is costly
+                and the outcome is not guaranteed
+
+	d)		    5/10
+
+Total Score	14/50 Grade 2
+
+## Ekaterina
+
+Section A
+
+1. EcoHome Products LTD
+
+    a)          2/2
+
+    b)
+
+        i)      0/2
+                EcoCleaner 300.000 - 120.000 - 60.000 = 120.000
+                EcoWipes 500.000 - 150.000 - 200.000 = 150.000
+
+        ii)     2/4
+
+    c)          0/2
+                does not consider fixed costs
+
+2. Smart Gadgets Ltd
+
+    a)          0/2
+                Ecosystem of devices attached to internet, e.g. home appliance
+
+    b)
+
+        i)      0/2
+                2.000 / 5.000 = 4%
+
+        ii)     2/2
+
+        iii)    0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+    c)          0/2
+                I should give you a minus for your answer
+
+3. Eco Brewery Ltd
+
+    a)          0/2
+                current assets - current liabilities
+
+    b)
+
+        i)      0/1
+                1.500.000 / 300.000 = 5
+
+        ii)     1/1
+
+        iii)    1/1
+
+        iv)     0/1
+                400.000 / 800.000 + 400.000 = 33%
+
+        v)      0/2
+                2.400.000 - 1.500.000 = 900.000
+
+    c)          0/2
+                less cash tied into stock
+
+Section B
+
+5. Agro Drones Ltd
+
+	a)		    0/2
+                company with the highest market share in its own market
+
+	b)		    0/4
+                Improved efficiency but costly
+
+	c)		    4/4
+
+	d)		    5/10
+
+Total Score	17/50 Grade 2
