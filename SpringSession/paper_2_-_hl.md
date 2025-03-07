@@ -414,3 +414,284 @@ Section B
                 There is no one single reference to the stimulus material
 
 Total Score	30/50 Grade 4
+
+## Afsaneh
+
+Section A
+
+1. EcoHome Products LTD
+
+	a)		    2/2
+
+	b)
+
+		i)	    2/2
+
+		ii)	    4/4
+
+	c)		    2/2
+
+2. Smart Gadgets Ltd
+
+	a)		    0/2
+                ability of any devices to be connected to internet
+
+	b)
+
+		i)	    0/2
+                2.000 / 5.000 = 4%
+
+		ii)	    0/2
+                70.000 / 200 = 350
+
+		iii)	0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+	c)		    2/2
+
+3. Eco Brewery Ltd
+
+	a)		    0/2
+                current asset - current liabilities
+
+	b)
+
+		i)	    1/1
+
+		ii)	    1/1
+
+		iii)	1/1
+
+		iv)	    0/1
+                400.000 / 800.000 + 400.000 = 33%
+
+		v)	    2/2
+
+	c)		    2/2
+
+Section B
+
+5. Agro Drones Ltd
+
+	a)		    2/2
+
+	b)		    4/4
+
+	c)		    4/4
+
+	d)		    10/10
+
+Total Score	40/50 Grade 6
+
+## Andermirkan
+
+Section A
+
+1. EcoHome Products LTD
+
+	a)		    2/2
+
+	b)
+
+		i)	    0/2
+                EcoCleaner 300.000 - 120.000 - 60.000 = 120.000
+                EcoWipes 500.000 - 150.000 - 200.000 = 150.000
+
+		ii)	    0/4
+                120.000 + 150.000 - 60.000 = 210.000 Profit
+
+	c)		    0/2
+                it considers only variable costs 
+
+2. Smart Gadgets Ltd
+
+	a)		    2/2
+
+	b)
+
+		i)	    2/2
+
+		ii)	    0/2
+                70.000 / 200 = 350
+
+		iii)	0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+	c)		    2/2
+
+3. Eco Brewery Ltd
+
+	a)		    0/2
+                current assets - current liabilities
+
+	b)
+
+		i)	    1/1
+
+		ii)	    1/1
+
+		iii)	1/1
+
+		iv)	    0/1
+                400.000 / 800.000 + 400.000 = 33%
+
+		v)	    0/2
+                2.400.000 - 1.500.000 = 900.000
+
+	c)		    0/2
+                less cass tied into cash
+
+Section B
+
+5. Agro Drones Ltd
+
+	a)		    2/2
+
+	b)		    4/4
+
+	c)		    4/4
+
+	d)		    7/10
+                You discarded the stimulus of Table 9
+
+Total Score	28/50 Grade 4
+
+## Yaroslav
+
+Section A
+
+1. EcoHome Products LTD
+
+	a)		    2/2
+
+	b)
+
+		i)	    2/2
+
+		ii)	    4/4
+
+	c)		    2/2
+
+2. Smart Gadgets Ltd
+
+	a)		    2/2
+
+	b)
+
+		i)	    2/2
+
+		ii)	    2/2
+
+		iii)	2/2
+
+	c)		    2/2
+
+3. Eco Brewery Ltd
+
+	a)		    2/2
+
+	b)
+
+		i)	    1/1
+
+		ii)	    0/1
+                200.000/2.400.000 X 365= 30,42 
+
+		iii)	1/1
+
+		iv)	    1/1
+
+		v)	    2/2
+
+	c)		    2/2
+
+Section B
+
+4. Smile Bags Ltd
+
+	a)		    2/2
+
+	b)		    4/4
+
+	c)		    4/4
+
+	d)		    10/10
+                It was very difficult to read your answer.
+                You risked a 5
+
+Total Score	49/50 Grade 7
+
+## Prokop
+
+Section A
+
+1. EcoHome Products LTD
+
+	a)		    2/2
+
+	b)
+
+		i)	    2/2
+
+		ii)	    0/4
+                120.000 + 150.000 - 60.000 = 210.000 Profit
+
+	c)		    0/2
+                it considers only variable costs 
+
+2. Smart Gadgets Ltd
+
+	a)		    0/2
+
+	b)
+
+		i)	    2/2
+
+		ii)	    0/2
+                70.000 / 200 = 350
+
+		iii)	0/2
+                Contribution / Contribution - FC
+                160.000 / 80.000 = 2
+
+	c)		    0/2
+                training or better equipment
+
+3. Eco Brewery Ltd
+
+	a)		    0/2
+                current assets - current liabilities
+
+	b)
+
+		i)	    1/1
+
+		ii)	    1/1
+
+		iii)	1/1
+
+		iv)	    0/1
+                400.000 / 800.000 + 400.000 = 33%
+
+		v)	    2/2
+
+	c)		    0/2
+                less cash tied into stock
+
+Section B
+
+5. Agro Drones Ltd
+
+	a)		    2/2
+
+	b)		    4/4
+
+	c)		    2/4
+                outcomes are not granted
+
+	d)		    6/10
+                No one single stimulus has been considered
+
+Total Score	25/50 Grade 4
