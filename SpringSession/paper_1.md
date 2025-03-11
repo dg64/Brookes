@@ -698,14 +698,33 @@ Question 7          7/10
 
 Total Score         15/30 Grade 4
 
+## Any
 
+Section A
 
+Question 1          1/2
+                    growing its own premises
 
+Question 2          0/2
+                    all businesses that come in contact with a product from the raw material
+                    to the delivery to the final customer
 
+Question 3          2/4
+                    Ability to pay short-term debts
 
+Question 4          2/4
+                    You missed the drawback. It is expensive to implement
 
+Question 5          2/2
 
+Question 6          4/6
+                    You were required to list two advantages
+                    - consistent quality
+                    - low human intervention
 
+Section B
 
+Question 7          10/10
 
+Total Score         21/30 Grade 5
 
