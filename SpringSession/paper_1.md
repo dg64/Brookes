@@ -282,7 +282,7 @@ Section B
 
 Question 8          10/10
 
-Total Score         27/30 Grade 6
+Total Score         27/30 Grade 7
 
 ## Lilly
 
@@ -698,7 +698,7 @@ Question 7          7/10
 
 Total Score         15/30 Grade 4
 
-## Any
+## Ani
 
 Section A
 
