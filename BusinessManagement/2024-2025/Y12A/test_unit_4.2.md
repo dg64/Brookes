@@ -81,4 +81,15 @@ Question 3      6/10
 
 Total Score     10/16 Grade 4
 
+## Sofia 
+Question 1      2/2
+
+Question 2      0/4
+                Car companies can bese their marketing and their uniquse selling point
+                on the certifications received by JD Power and associates.
+
+Question 3      2/10
+                You can not write two lines for a question that is worth 10 points.
+
+Total Score     4/16 Grade 2
                 
