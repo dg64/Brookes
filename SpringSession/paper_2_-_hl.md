@@ -983,15 +983,14 @@ Section B
 
     a)          2/2
 
-    b)          2/4
-                expensive to set up
+    b)          4/4
 
     c)          4/4
 
     d)          8/10
                 you did not consider all the stimulus material
 
-Total Score 38/50 Grade 5
+Total Score 40/50 Grade 5
 
 ## Katarina
 
