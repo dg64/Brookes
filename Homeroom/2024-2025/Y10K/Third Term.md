@@ -1,3 +1,5 @@
+# Third Term
+
 # Abdulazizov Abubakar
 
 Abubakar is a thoughtful young man who has had an unproductive year at Brookes; being a boarding student, Abubakar was always in time for homeroom, but his uniform was often not in order and I had to remind him about that quite often. Academically, the only subject in which he performed well was Russian, while in the others was significantly struggling; Abubakar also received quite a number of negative notes relative both to his behaviour and his commitment to study. I hope Abubakar will reflect about what is going to happen next year and understand that if he keeps behaving like that, there is only one possible outcome ahead of him.
