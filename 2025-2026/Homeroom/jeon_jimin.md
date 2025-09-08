@@ -3,3 +3,4 @@
 2025-09-03 - Punctual and early2025-09-03 - Punctual and early2025-09-03 - Punctual and early2025-09-03 - Punctual and early2025-09-03 - Punctual and early
 2025-09-04 - Early
 2025-09-05 - Early
+2025-09-08 - Absent
