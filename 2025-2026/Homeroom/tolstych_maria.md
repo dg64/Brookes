@@ -4,3 +4,4 @@
 2025-09-04 - Late
 2025-09-05 - Punctual
 2025-09-08 - Punctual
+2025-09-09 - Punctual
