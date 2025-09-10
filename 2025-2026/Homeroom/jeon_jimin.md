@@ -5,3 +5,4 @@
 2025-09-05 - Early
 2025-09-08 - Absent
 2025-09-09 - Punctual
+2025-09-10 - Punctual
