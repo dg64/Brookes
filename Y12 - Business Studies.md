@@ -28,7 +28,7 @@ Y12 - Business Studies
 - [x] [Sihan Yang](Y12%20-%20Business%20Studies.md#Sihan%20Yang) 
 - [x] [Rich Picek](Y12%20-%20Business%20Studies.md#Rich%20Picek)
 - [x] [Daniel Makarov](Y12%20-%20Business%20Studies.md#Daniel%20Makarov) 
-- [] [Lom-ly Abdulazizov](Y12%20-%20Business%20Studies.md#Lom-ly) 
+- [x] [Lom-ly Abdulazizov](Y12%20-%20Business%20Studies.md#Lom-ly) 
 - [] [Ankit Ghosh](Y12%20-%20Business%20Studies.md#Ankhit%20Ghosh) 
 - [x] [Viktoria Volkova](Y12%20-%20Business%20Studies.md#Viktoria%20Volkova) 
 - [x] [Anastasia Romanova](Y12%20-%20Business%20Studies.md#Anastasia%20Romanova)
