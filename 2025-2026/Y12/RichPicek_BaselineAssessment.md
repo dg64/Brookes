@@ -1,4 +1,4 @@
-# RichPicek_BaselineAssessment
+# RichPicek BaselineAssessment
 
 Question 1    0/2
 
