@@ -6,4 +6,5 @@
 2025-09-08 - Absent
 2025-09-09 - Absent
 2025-09-10 - Absent
-2025-09-11 - Present
+2025-09-11 - Punctual
+2025-09-12 - Punctual
