@@ -8,3 +8,4 @@
 2025-09-10 - Absent
 2025-09-11 - Punctual
 2025-09-12 - Punctual
+2025-09-15 - Punctual
