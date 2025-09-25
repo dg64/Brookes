@@ -16,3 +16,4 @@
 2025-09-22 - Punctual
 2025-09-23 - Punctual
 2025-09-24 - Punctual
+2025-09-25 - Absent
