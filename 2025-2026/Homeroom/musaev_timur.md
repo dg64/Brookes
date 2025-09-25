@@ -1,18 +1,18 @@
 # Musaev Timur
-2025-09-02 - Punctual - Reads a book
-2025-09-03 - Punctual - Reads a book
-2025-09-04 - Punctual
-2025-09-05 - Punctual
-2025-09-08 - Punctual
-2025-09-09 - Punctual
-2025-09-10 - Punctual
-2025-09-11 - Punctual
-2025-09-12 - Punctual
-2025-09-15 - Punctual
-2025-09-16 - Punctual
-2025-09-17 - Punctual
-2025-09-18 - Punctual
-2025-09-19 - Punctual
+2025-09-02 - Present - Reads a book
+2025-09-03 - Present - Reads a book
+2025-09-04 - Present
+2025-09-05 - Present
+2025-09-08 - Present
+2025-09-09 - Present
+2025-09-10 - Present
+2025-09-11 - Present
+2025-09-12 - Present
+2025-09-15 - Present
+2025-09-16 - Present
+2025-09-17 - Present
+2025-09-18 - Present
+2025-09-19 - Present
 2025-09-22 - Absent
 2025-09-23 - Absent
 2025-09-24 - Absent
