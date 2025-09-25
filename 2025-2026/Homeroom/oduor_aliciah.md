@@ -1,18 +1,19 @@
 # Oduor Aliciah
 2025-09-02 - Late 
-2025-09-03 - Punctual - sits alone
-2025-09-04 - Punctual
-2025-09-05 - Punctual
-2025-09-08 - Punctual
-2025-09-09 - Punctual
-2025-09-10 - Punctual
-2025-09-11 - Punctual
-2025-09-12 - Punctual
-2025-09-15 - Punctual
-2025-09-16 - Punctual
-2025-09-17 - Punctual
-2025-09-18 - Punctual
-2025-09-19 - Punctual
-2025-09-22 - Punctual
-2025-09-23 - Punctual
-2025-09-24 - Punctual
+2025-09-03 - Present - sits alone
+2025-09-04 - Present
+2025-09-05 - Present
+2025-09-08 - Present
+2025-09-09 - Present
+2025-09-10 - Present
+2025-09-11 - Present
+2025-09-12 - Present
+2025-09-15 - Present
+2025-09-16 - Present
+2025-09-17 - Present
+2025-09-18 - Present
+2025-09-19 - Present
+2025-09-22 - Present
+2025-09-23 - Present
+2025-09-24 - Present
+2025-09-25 - Present
