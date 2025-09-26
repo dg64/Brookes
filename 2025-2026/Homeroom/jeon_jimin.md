@@ -1,19 +1,20 @@
 # Jeon Jimin
-2025-09-02 - Punctual
-2025-09-03 - Punctual and early2025-09-03 - Punctual and early2025-09-03 - Punctual and early2025-09-03 - Punctual and early2025-09-03 - Punctual and early
+2025-09-02 - Present
+2025-09-03 - Present and early2025-09-03 - Present and early2025-09-03 - Present and early2025-09-03 - Present and early2025-09-03 - Present and early
 2025-09-04 - Early
 2025-09-05 - Early
 2025-09-08 - Absent
-2025-09-09 - Punctual
-2025-09-10 - Punctual
-2025-09-11 - Punctual
-2025-09-12 - Punctual
-2025-09-15 - Punctual
-2025-09-16 - Punctual
-2025-09-17 - Punctual
-2025-09-18 - Punctual
+2025-09-09 - Present
+2025-09-10 - Present
+2025-09-11 - Present
+2025-09-12 - Present
+2025-09-15 - Present
+2025-09-16 - Present
+2025-09-17 - Present
+2025-09-18 - Present
 2025-09-19 - Absent
-2025-09-22 - Punctual
-2025-09-23 - Punctual
-2025-09-24 - Punctual
-2025-09-25 - Punctual
+2025-09-22 - Present
+2025-09-23 - Present
+2025-09-24 - Present
+2025-09-25 - Present
+2025-09-26 = Present
