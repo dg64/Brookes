@@ -11,9 +11,12 @@
 2025-09-15 - Present
 2025-09-16 - Present
 2025-09-18 - Present
-2025-09-19 - Puntual
+2025-09-19 - Present
 2025-09-22 - Present
 2025-09-23 - Present
 2025-09-24 - Absent
 2025-09-25 - Present
 2025-09-26 - Late
+2025-09-29 - Late
+2025-09-30 - Late
+2025-10-01 - Absent
