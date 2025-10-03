@@ -21,3 +21,4 @@
 2025-09-30 - Present
 2025-10-01 - Present
 2025-10-02 - Absent
+2025-10-03 - Present
